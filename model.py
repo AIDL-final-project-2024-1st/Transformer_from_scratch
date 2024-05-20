@@ -42,3 +42,74 @@ class PositionalEncoding(nn.Module):
         x = x + self.pe[:x.size(0), :]  # x의 크기 만큼만 잘라서 쓰도록
         return x
         
+
+class ScaledDotProductAttention(nn.Module):
+    def __init__(self):
+        super().__init__()
+        
+
+    def forward(self, query, key, value, mask):
+        d_k = query.shape[-1]
+        scores = torch.matmul(query, key.transpose(-2, -1)) / torch.sqrt(d_k)
+        if mask is not None:
+            scores.masked_fill_(mask == 0, -1e9)
+
+        attention = (nn.Softmax(scores, dim=-1)) @ value # @ 는 torch.matmul과 같은 연산자
+        return attention
+
+
+
+class MultiHeadAttention(nn.Module):
+    def __init__(self, d_model, h):
+        super().__init__()
+        self.d_model = d_model
+        self.h = h # 헤드의 갯수
+        assert d_model % h == 0, "d_model is not divisible by h" # d_model 은 h로 나누어 떨어져야 함
+
+
+        self.d_k = d_model / h
+        # d_k 만큼을 h 번 하는 것. d_model = h * self.d_k 이나 직관성을 위해 나눠서 적음
+        self.w_q = nn.Linear(d_model, h * self.d_k) # Wq
+        self.w_k = nn.Linear(d_model, h * self.d_k) # Wk
+        self.w_v = nn.Linear(d_model, h * self.d_k) # Wv
+
+    
+        self.w_o = nn.Linear(h * self.d_k, d_model) # Wo, h * d_v = d_model, d_v = d_k
+    
+    def forward(self, query, key, value, mask=None):
+        query = self.w_q(query) # (Batch, seq_len, d_model) --> (batch, seq_len, d_model)
+        key = self.w_k(key) # (Batch, seq_len, d_model) --> (batch, seq_len, d_model)
+        value = self.w_v(value) # (Batch, seq_len, d_model) --> (batch, seq_len, d_model)
+
+        # torch의 view 함수는 numpy의 reshape 과 같은 역할을 하나 메모리에 저장을 하지 않음
+        # (batch, seq_len, d_model) -> (batch, seq_len, h, d_k) --> ( batch, h, seq_len, d_k)
+        query = query.view(query.shape[0], query.shape[1], self.h, self.d_k).transpose(1, 2) 
+        key = key.view(key.shape[0], key.shape[1], self.h, self.d_k).transpose(1, 2) 
+        value = value.view(value.shape[0], value.shape[1], self.h, self.d_k).transpose(1, 2) 
+
+        x = ScaledDotProductAttention()(query, key, value, mask)
+
+        # (batch, h, seq_len, d_k) --> (batch, seq_len, h, d_k) --> (batch, seq_len, d_model)
+        x = x.transpose(1, 2).contiguous().view(x.shape[0], -1, self.h * self.d_k)
+        # PyTorch의 텐서는 메모리 상에 연속적으로 저장되지 않을 수 있습니다. 
+        # contiguous 메서드는 텐서를 연속된 메모리 블록으로 복사하여 새로운 텐서를 만듭니다. 
+        # 이는 이후의 view 메서드 호출이 오류 없이 수행될 수 있도록 합니다.
+
+        # (batch, seq_len, d_model) --> (batch, seq_len, d_model)
+        return self.w_o(x)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
