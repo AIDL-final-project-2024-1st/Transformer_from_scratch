@@ -1,5 +1,6 @@
 import torch
 import torch.nn as nn
+import torch.nn.functional as F
 import math
 
 
@@ -54,7 +55,7 @@ class ScaledDotProductAttention(nn.Module):
         if mask is not None:
             scores.masked_fill_(mask == 0, -1e9)
 
-        attention = (nn.Softmax(scores, dim=-1)) @ value # @ 는 torch.matmul과 같은 연산자
+        attention = (F.softmax(scores, dim=-1)) @ value # @ 는 torch.matmul과 같은 연산자
         return attention
 
 
@@ -98,6 +99,37 @@ class MultiHeadAttention(nn.Module):
         # (batch, seq_len, d_model) --> (batch, seq_len, d_model)
         return self.w_o(x)
 
+# layer normalization 을 최대한 scratch로 구현
+class LayerNormalization(nn.Module):
+    def __init__(self, eps=1e-6) -> None:
+        super().__init__()
+        self.eps = eps
+        self.alpha = nn.Parameter(torch.ones(1)) # Multiplied
+        self.bias = nn.Parameter(torch.zeros(1)) # Added
+
+    def forward(self, x):
+        mean = x.mean(dim=-1, keepdim=True)
+        std = x.std(dim=-1, keepdim=True)
+        return self.alpha * (x - mean) / (std + self.eps) + self.bias
+    
+
+class AddAndNorm(nn.Module):
+    def __init__(self):
+        super().__init__()
+        self.layer_norm = LayerNormalization()
+
+    def forward(self, x, sublayer_output):
+        return self.layer_norm(x + sublayer_output)
+    
+
+class FeedForward(nn.Module):
+    def __init__(self, d_model, d_ff):
+        super(FeedForward, self).__init__()
+        self.W1 = nn.Linear(d_model, d_ff, bias=True)
+        self.W2 = nn.Linear(d_ff, d_model, bias=True)
+
+    def forward(self, x):
+        return self.W2(F.relu(self.W1(x)))
 
 
 
