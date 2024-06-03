@@ -1,6 +1,7 @@
 # Transformer_from_scratch
 AIDL project: ASR whisper finetuning + RAG    
 
+### Base   
 
 whisper-base 로 전처리 한 데이터 : allenpoe/atcosim_prepared_whisper_base    
 whisper-base 로 finetune 한 모델    
