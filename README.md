@@ -1,7 +1,11 @@
 # Transformer_from_scratch
 AIDL project: ASR whisper finetuning + RAG    
 
-### Base   
+ https://colab.research.google.com/drive/1OYrBOir_fELBskVcFo9YpTg3gpniiorE?usp=sharing    
+
+ converted 는 숫자 표기법 123 식으로 변환한 것
+
+## Base   
 
 whisper-base 로 전처리 한 데이터 : allenpoe/atcosim_prepared_whisper_base    
 whisper-base 로 finetune 한 모델    
@@ -29,4 +33,46 @@ whisper-base 로 그냥 evaluate
  'eval_samples_per_second': 2.925,    
  'eval_steps_per_second': 0.366}        
 
- https://colab.research.google.com/drive/1OYrBOir_fELBskVcFo9YpTg3gpniiorE?usp=sharing
+ ### Base converted
+
+ Step	Training Loss	Validation Loss	Wer    
+100	1.882000	1.529038	67.414301    
+200	0.433400	0.425137	26.258704    
+300	0.188300	0.221765	15.593198    
+400	0.125900	0.148661	10.986877    
+500	0.071300	0.116831	9.413498    
+600	0.044600	0.103563	7.565613    
+700	0.065200	0.091920	6.320300    
+800	0.050800	0.082914	5.115158    
+
+ 
+
+ ## Small   
+
+ ### Small converted
+
+whisper-small 로 전처리 한 데이터 : allenpoe/atcosim_converted_prepared_whisper_small    
+whisper-small 로 finetune 한 모델 : allenpoe/whisper-small-atco-converted
+
+Step	Training Loss	Validation Loss	Wer    
+100	1.603300	1.360189	78.106588    
+200	0.616100	0.599254	21.792983    
+300	0.110300	0.127348	14.736208    
+400	0.063100	0.086483	13.758704    
+500	0.036900	0.076273	11.964381    
+600	0.019800	0.064437	16.811730    
+700	0.036900	0.059947	10.437868    
+800	0.027200	0.051758	12.192019    
+900	0.020200	0.047269	8.415908    
+1000	0.006400	0.046787	7.204071     
+    
+whisper-small 로 그냥 evaluate 
+{'eval_loss': 4.3919677734375,     
+ 'eval_wer': 84.68800214247456,    
+ 'eval_runtime': 886.7614,    
+ 'eval_samples_per_second': 2.144,    
+ 'eval_steps_per_second': 0.268}    
+
+
+ 
+ 
