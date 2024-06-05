@@ -7,9 +7,10 @@ AIDL project: ASR whisper finetuning + RAG
 
 ## Base   
 
+### Base original
+
 whisper-base 로 전처리 한 데이터 : allenpoe/atcosim_prepared_whisper_base    
-whisper-base 로 finetune 한 모델    
-model_address = 'allenpoe/whisper-base-atco'     
+whisper-base 로 finetune 한 모델 : allenpoe/whisper-base-atco        
 
 1000 epoch, validate every 100 epoch : 2시간 정도
 validation도 시간이 걸리므로 200번마다 혹은 더 길게 해도 될듯     
@@ -34,6 +35,8 @@ whisper-base 로 그냥 evaluate
  'eval_steps_per_second': 0.366}        
 
  ### Base converted
+
+whisper-base 로 전처리 한 데이터 : allenpoe/atcosim_converted_prepared_whisper_base    
 
  Step	Training Loss	Validation Loss	Wer    
 100	1.882000	1.529038	67.414301    
