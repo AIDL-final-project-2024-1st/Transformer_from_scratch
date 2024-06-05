@@ -1,7 +1,12 @@
 # Transformer_from_scratch
 AIDL project: ASR whisper finetuning + RAG    
 
+
+파인튜닝    
  https://colab.research.google.com/drive/1OYrBOir_fELBskVcFo9YpTg3gpniiorE?usp=sharing    
+
+여러 모델로 추론 + 간단한 RAG    
+ https://colab.research.google.com/drive/13mRwBzHwsHtSi3FzSv2oNISKpKOuf-Dw?usp=sharing
 
  converted 는 숫자 표기법 123 식으로 변환한 것
 
