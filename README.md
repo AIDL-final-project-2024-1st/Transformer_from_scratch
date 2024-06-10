@@ -1,6 +1,10 @@
 # Transformer_from_scratch
 AIDL project: ASR whisper finetuning + RAG    
 
+DATASET : Jzuluaga/atcosim_corpus     
+
+----------------------------------
+
 
 파인튜닝    
  https://colab.research.google.com/drive/1OYrBOir_fELBskVcFo9YpTg3gpniiorE?usp=sharing    
