@@ -90,7 +90,7 @@ https://colab.research.google.com/drive/1nfO7-o7QH-X_99dt0yClIDOqYlFqV6X-?usp=sh
 whisper finetune llama2     
 https://colab.research.google.com/drive/1VxpNomvVx2LMGYiLAk4USu1wXaY4UeyR?usp=sharing    
 
-whisper finetune llama2 허깅페이스에서 모델 불러오기
+whisper finetune llama2 허깅페이스에서 모델 불러오기     
 https://colab.research.google.com/drive/1kqAasjPiHB8o7CEuvFjMMg4HBdQm9tQ7?usp=sharing
  
  
