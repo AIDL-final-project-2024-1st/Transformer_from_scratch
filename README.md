@@ -1,7 +1,10 @@
 # Transformer_from_scratch
 AIDL project: ASR whisper finetuning + RAG    
 
-DATASET : Jzuluaga/atcosim_corpus     
+DATASET : Jzuluaga/atcosim_corpus       
+변환된 DATASET : allenpoe/atcosim_finetune_whisper_small_final    
+
+ATCOSIM으로 FINTUNE 된 WHISPER SMALL 모델 : allenpoe/whisper-small-finetune-atcosim-final    
 
 ----------------------------------
 
