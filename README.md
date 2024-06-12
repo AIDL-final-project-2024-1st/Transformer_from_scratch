@@ -107,7 +107,7 @@ https://colab.research.google.com/drive/1kqAasjPiHB8o7CEuvFjMMg4HBdQm9tQ7?usp=sh
 
 ![image](https://github.com/AIDL-final-project-2024-1st/Transformer_from_scratch/assets/93754352/4704e93e-11fa-42e4-b153-e876e3cc0d87)
 
-whisper small을 atcosim으로 파인튜닝한 결과. 1000에폭
+whisper small을 atcosim_converted 으로 파인튜닝한 결과. 1000에폭
 
 ![image](https://github.com/AIDL-final-project-2024-1st/Transformer_from_scratch/assets/93754352/216cab57-9c05-4e86-8e39-30ac2daafaf9)
 
