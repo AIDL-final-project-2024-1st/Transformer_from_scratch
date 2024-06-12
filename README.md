@@ -100,8 +100,16 @@ https://colab.research.google.com/drive/1VxpNomvVx2LMGYiLAk4USu1wXaY4UeyR?usp=sh
 
 whisper finetune llama2 허깅페이스에서 모델 불러오기     
 https://colab.research.google.com/drive/1kqAasjPiHB8o7CEuvFjMMg4HBdQm9tQ7?usp=sharing
- 
- 
+
+ Llama_2 7b 파인튜닝하기 
+  step1 : Whisper-small에 ATCOSIM train과 test의 "audio" 집어넣어서 받아쓰기 생성
+          ※ Whisper-small에 ATCOSIM train 받아쓰기 데이터 : "KooJM/Whisper-small_ACTOSIM_Train_data"
+          ※ Whisper-small에 ATCOSIM test 받아쓰기 데이터 : "KooJM/Whisper-small_ACTOSIM_Test_data"
+  step2 : Llama_2 7b에 받아쓰기한걸 prompt로 넣어주고, 정답은 ATCOSIM train의 "text"로 하여 Llama_2를 지도학습.
+  step3 : 파인튜닝 된 Llama_2를 허깅페이스에 올림 "KooJM/llama-2-7b_finetuned_using_whisper-small"
+  step4 : 파인튜닝 된 Llama_2를 허깅페이스에서 받아서 ATCOSIM test 받아쓰기한걸 llama-2에 prompt
+  step5 : llama-2가 뱉는 text와 ATCOSIM test 정답지를 비교하여 WER 계산!
+ https://colab.research.google.com/drive/1g7Eyjy9tPMY77B6wBtV9DU2T26eMQ16L?usp=sharing
 -------------------------
 파인튜닝 안한 whisper small 의 atcosim 결과    
 
@@ -110,4 +118,5 @@ https://colab.research.google.com/drive/1kqAasjPiHB8o7CEuvFjMMg4HBdQm9tQ7?usp=sh
 whisper small을 atcosim_converted 으로 파인튜닝한 결과. 1000에폭
 
 ![image](https://github.com/AIDL-final-project-2024-1st/Transformer_from_scratch/assets/93754352/216cab57-9c05-4e86-8e39-30ac2daafaf9)
+
 
