@@ -21,6 +21,48 @@ allenpoe/ATCOSIM_dictation_by_finetuned_whisper_small
 
  converted 는 숫자 표기법 123 식으로 변환한 것
 
+
+------------------------
+
+whisper small finetune 모델에 ATCO2 데이터     
+https://colab.research.google.com/drive/1nfO7-o7QH-X_99dt0yClIDOqYlFqV6X-?usp=sharing     
+
+
+whisper finetune llama2     
+https://colab.research.google.com/drive/1VxpNomvVx2LMGYiLAk4USu1wXaY4UeyR?usp=sharing    
+
+whisper finetune llama2 허깅페이스에서 모델 불러오기     
+https://colab.research.google.com/drive/1kqAasjPiHB8o7CEuvFjMMg4HBdQm9tQ7?usp=sharing
+
+Llama_2 7b 파인튜닝하기 
+  - https://colab.research.google.com/drive/1g7Eyjy9tPMY77B6wBtV9DU2T26eMQ16L?usp=sharing
+  - step1 : Whisper-small에 ATCOSIM train과 test의 "audio" 집어넣어서 받아쓰기 생성
+          ※ Whisper-small에 ATCOSIM train 받아쓰기 데이터 : "KooJM/Whisper-small_ACTOSIM_Train_data"
+          ※ Whisper-small에 ATCOSIM test 받아쓰기 데이터 : "KooJM/Whisper-small_ACTOSIM_Test_data"
+  - step2 : Llama_2 7b에 받아쓰기한걸 prompt로 넣어주고, 정답은 ATCOSIM train의 "text"로 하여 Llama_2를 지도학습. epoch=1, batch_size=32
+  - step3 : llama 파인튜닝을 위해서 파일 수정함 -->  "KooJM/ATCOSIM_llm_train_text" (<s>[INST] 질문(Whisper-small 받아쓰기) [/INST] 정답(ATCOSIM train의 "text") </s>)
+  - step3 : 파인튜닝 된 Llama_2를 허깅페이스에 올림 "KooJM/llama-2-7b_finetuned_using_whisper-small"
+  - step4 : 파인튜닝 된 Llama_2를 허깅페이스에서 다운받아서 ATCOSIM test 받아쓰기한걸 llama-2에 prompt
+  - step5 : llama-2가 뱉는 text와 ATCOSIM test 정답지를 비교하여 WER 계산!
+![image](https://github.com/AIDL-final-project-2024-1st/Transformer_from_scratch/assets/170100329/eec6f55b-6f07-4230-83d6-fb8bcb80d095)
+  - step6 : llama-2가 뱉는 text와 ATCO2 정답지를 비교하여 WER 계산해야함...
+
+-------------------------
+파인튜닝 안한 whisper small 의 atcosim 결과    
+
+![image](https://github.com/AIDL-final-project-2024-1st/Transformer_from_scratch/assets/93754352/4704e93e-11fa-42e4-b153-e876e3cc0d87)
+
+whisper small을 atcosim_converted 으로 파인튜닝한 결과. 1000에폭
+
+![image](https://github.com/AIDL-final-project-2024-1st/Transformer_from_scratch/assets/93754352/216cab57-9c05-4e86-8e39-30ac2daafaf9)
+
+
+
+
+
+
+--------------------------
+
 ## Base   
 
 ### Base original
@@ -92,38 +134,5 @@ whisper-small 로 그냥 evaluate
  'eval_samples_per_second': 2.144,    
  'eval_steps_per_second': 0.268}    
 
-------------------------
-
-whisper small finetune 모델에 ATCO2 데이터     
-https://colab.research.google.com/drive/1nfO7-o7QH-X_99dt0yClIDOqYlFqV6X-?usp=sharing     
-
-
-whisper finetune llama2     
-https://colab.research.google.com/drive/1VxpNomvVx2LMGYiLAk4USu1wXaY4UeyR?usp=sharing    
-
-whisper finetune llama2 허깅페이스에서 모델 불러오기     
-https://colab.research.google.com/drive/1kqAasjPiHB8o7CEuvFjMMg4HBdQm9tQ7?usp=sharing
-
-Llama_2 7b 파인튜닝하기 
-  - https://colab.research.google.com/drive/1g7Eyjy9tPMY77B6wBtV9DU2T26eMQ16L?usp=sharing
-  - step1 : Whisper-small에 ATCOSIM train과 test의 "audio" 집어넣어서 받아쓰기 생성
-          ※ Whisper-small에 ATCOSIM train 받아쓰기 데이터 : "KooJM/Whisper-small_ACTOSIM_Train_data"
-          ※ Whisper-small에 ATCOSIM test 받아쓰기 데이터 : "KooJM/Whisper-small_ACTOSIM_Test_data"
-  - step2 : Llama_2 7b에 받아쓰기한걸 prompt로 넣어주고, 정답은 ATCOSIM train의 "text"로 하여 Llama_2를 지도학습. epoch=1, batch_size=32
-  - step3 : llama 파인튜닝을 위해서 파일 수정함 -->  "KooJM/ATCOSIM_llm_train_text" (<s>[INST] 질문(Whisper-small 받아쓰기) [/INST] 정답(ATCOSIM train의 "text") </s>)
-  - step3 : 파인튜닝 된 Llama_2를 허깅페이스에 올림 "KooJM/llama-2-7b_finetuned_using_whisper-small"
-  - step4 : 파인튜닝 된 Llama_2를 허깅페이스에서 다운받아서 ATCOSIM test 받아쓰기한걸 llama-2에 prompt
-  - step5 : llama-2가 뱉는 text와 ATCOSIM test 정답지를 비교하여 WER 계산!
-![image](https://github.com/AIDL-final-project-2024-1st/Transformer_from_scratch/assets/170100329/eec6f55b-6f07-4230-83d6-fb8bcb80d095)
-  - step6 : llama-2가 뱉는 text와 ATCO2 정답지를 비교하여 WER 계산해야함...
-
--------------------------
-파인튜닝 안한 whisper small 의 atcosim 결과    
-
-![image](https://github.com/AIDL-final-project-2024-1st/Transformer_from_scratch/assets/93754352/4704e93e-11fa-42e4-b153-e876e3cc0d87)
-
-whisper small을 atcosim_converted 으로 파인튜닝한 결과. 1000에폭
-
-![image](https://github.com/AIDL-final-project-2024-1st/Transformer_from_scratch/assets/93754352/216cab57-9c05-4e86-8e39-30ac2daafaf9)
 
 
