@@ -22,6 +22,9 @@ allenpoe/ATCOSIM_dictation_by_finetuned_whisper_small
  converted 는 숫자 표기법 123 식으로 변환한 것
 
 
+라마 + RAG. 위스퍼는 안붙은 상태. 앞부분의 간단 버전만 해도 될 듯 합니다.    
+https://colab.research.google.com/drive/1h0WrDfO6fyZ-vyHrtTciLMYiWhze5nSX?usp=sharing
+
 ------------------------
 
 whisper small finetune 모델에 ATCO2 데이터     
