@@ -6,6 +6,9 @@ DATASET : Jzuluaga/atcosim_corpus
 
 ATCOSIM으로 FINTUNE 된 WHISPER SMALL 모델 : allenpoe/whisper-small-finetuned-atcosim-model-final    
 
+파인튜닝된 모델로 atcosim 받아쓰기 데이터셋 (train, test 둘 다 한 주소에 올렸습니다. wav파일은 이름만 있고 오디오파일이 아닙니다. 텍스트만 있어요) :        
+allenpoe/ATCOSIM_dictation_by_finetuned_whisper_small     
+
 
 ----------------------------------
 
