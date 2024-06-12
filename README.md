@@ -103,3 +103,7 @@ https://colab.research.google.com/drive/1kqAasjPiHB8o7CEuvFjMMg4HBdQm9tQ7?usp=sh
  
  
 -------------------------
+파인튜닝 안한 whisper small 의 atcosim 결과    
+
+![image](https://github.com/AIDL-final-project-2024-1st/Transformer_from_scratch/assets/93754352/4704e93e-11fa-42e4-b153-e876e3cc0d87)
+
