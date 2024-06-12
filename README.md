@@ -102,7 +102,7 @@ whisper finetune llama2 허깅페이스에서 모델 불러오기
 https://colab.research.google.com/drive/1kqAasjPiHB8o7CEuvFjMMg4HBdQm9tQ7?usp=sharing
 
 Llama_2 7b 파인튜닝하기 
- https://colab.research.google.com/drive/1g7Eyjy9tPMY77B6wBtV9DU2T26eMQ16L?usp=sharing
+  - https://colab.research.google.com/drive/1g7Eyjy9tPMY77B6wBtV9DU2T26eMQ16L?usp=sharing
   - step1 : Whisper-small에 ATCOSIM train과 test의 "audio" 집어넣어서 받아쓰기 생성
           ※ Whisper-small에 ATCOSIM train 받아쓰기 데이터 : "KooJM/Whisper-small_ACTOSIM_Train_data"
           ※ Whisper-small에 ATCOSIM test 받아쓰기 데이터 : "KooJM/Whisper-small_ACTOSIM_Test_data"
