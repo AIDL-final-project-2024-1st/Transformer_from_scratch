@@ -46,8 +46,10 @@ atco2_test_dictation_by_whisper_finetuned.csv
 
 ### 4. 위스퍼기본 + 라마파인튜닝
 
-##### 코랩     
+##### 코랩        
+코랩만 작성하고 시간부족으로 못돌렸습니다.    
 
+https://colab.research.google.com/drive/1gwUnGpV46C1grnj4r30Icp9kVCxczTJj?usp=sharing    
 ##### 결과      
 
 
