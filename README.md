@@ -6,7 +6,7 @@ AIDL project: ASR whisper finetuning + RAG
 
 DATASET : Jzuluaga/atco2_corpus_1h        
      
-WHISPER SMALL : openai/whisper-large     
+WHISPER SMALL : openai/whisper-small     
       
 WHISPER FINETUNED : allenpoe/whisper-small-finetuned-atcosim-model-final  
        
@@ -17,37 +17,37 @@ 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
       
 LLAMA2 FINETUNED : KooJM/llama-2-7b_finetuned_using_whisper-small
 
-### 위스퍼기본    
+### 1. 위스퍼기본    
 
-### 위스퍼파인튜닝       
+### 2. 위스퍼파인튜닝       
 
 ##### 코랩
 https://colab.research.google.com/drive/1cxmbCTmX0UdFPyFRkcpy-ULiI5eHRJbY?usp=sharing    
 
 ##### 결과
 
-### 위스퍼기본 + 라마기본
+### 3. 위스퍼기본 + 라마기본
 
 ##### 코랩     
 
 ##### 결과      
 
 
-### 위스퍼기본 + 라마파인튜닝
+### 4. 위스퍼기본 + 라마파인튜닝
 
 ##### 코랩     
 
 ##### 결과      
 
 
-### 위스퍼파인튜닝 + 라마기본
+### 5. 위스퍼파인튜닝 + 라마기본
 
 ##### 코랩     
 
 ##### 결과      
 
 
-### 위스퍼파인튜닝 + 라마 파인튜닝
+### 6. 위스퍼파인튜닝 + 라마 파인튜닝
 
 ##### 코랩     
 
