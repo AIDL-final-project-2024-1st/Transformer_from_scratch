@@ -1,6 +1,51 @@
 # Transformer_from_scratch
 AIDL project: ASR whisper finetuning + RAG    
 
+--------------------------------
+# ATCO2_test 부분은 여기다 작성 부탁드려요 (비어있는거 채우기)           
+
+
+### 위스퍼기본    
+
+### 위스퍼파인튜닝       
+
+##### 코랩
+https://colab.research.google.com/drive/1cxmbCTmX0UdFPyFRkcpy-ULiI5eHRJbY?usp=sharing    
+
+##### 결과
+
+### 위스퍼기본 + 라마기본
+
+##### 코랩     
+
+##### 결과      
+
+
+### 위스퍼기본 + 라마파인튜닝
+
+##### 코랩     
+
+##### 결과      
+
+
+### 위스퍼파인튜닝 + 라마기본
+
+##### 코랩     
+
+##### 결과      
+
+
+### 위스퍼파인튜닝 + 라마 파인튜닝
+
+##### 코랩     
+
+##### 결과      
+
+
+
+
+----------------------------------
+
 DATASET : Jzuluaga/atcosim_corpus       
 변환된 DATASET : allenpoe/atcosim_dataset_for_finetune_whisper_small     
 
