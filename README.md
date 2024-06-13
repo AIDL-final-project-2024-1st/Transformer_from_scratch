@@ -19,6 +19,12 @@ LLAMA2 FINETUNED : KooJM/llama-2-7b_finetuned_using_whisper-small
 
 ### 1. 위스퍼기본    
 
+##### 코랩     
+https://colab.research.google.com/drive/1Q5ZUxbHooEdYtJvhu_Su1XhfmcnpXSOi?usp=sharing      
+
+##### 결과      
+     
+
 ### 2. 위스퍼파인튜닝       
 
 ##### 코랩
