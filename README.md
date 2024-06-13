@@ -4,6 +4,7 @@ AIDL project: ASR whisper finetuning + RAG
 --------------------------------
 # ATCO2_test 부분은 여기다 작성 부탁드려요 (비어있는거 채우기)           
 
+DATASET : Jzuluaga/atco2_corpus_1h    
 
 ### 위스퍼기본    
 
