@@ -1,0 +1,872 @@
+file,whisper_text,correct_text
+atco2_test0.wav, oscargelo foxtrot alfa oscar taxi tolling point rambai 27 via alfa charlie,oscar kilo foxtrot alfa oscar taxi to holding point runway 27 via alfa charlie
+atco2_test1.wav,ok koli tip 401 reizgnie tauro informationali lima q and h 1014 time check 37 quiitul ies bau 24 alfa departs iesi iesi klām 5000 sietu iesi klok 1000,ok quality 4091 ruzyne tower information lima qnh 1014 time check 37 cleared to liege baltu 4 alfa departure initial climb 5000 feet and squawk 1000
+atco2_test2.wav, kā ir kilo echo lima alfa confirm proceeding to tango bravo 402,oscar kilo echo lima alfa confirm proceeding to tango bravo 402
+atco2_test3.wav, siesa 1 delta solu descend flight level 108 and no speed restrictions,csa 1 delta zulu descend flight level 100 no speed restrictions
+atco2_test4.wav, Es stendi vairu 180 3 speed s iesē 1 lta l,descending flight level 100 free speed csa 1 delta zulu
+atco2_test5.wav, Ofkarcija ots ribu hotel pilskontrā par varu holdingu,oscar kilo triple hotel please confirm 1 more holding
+atco2_test6.wav, karka ieta ieta ieta affirm 1 holding and then it should be possible to follow ala ieta rana 06,oscar kilo hotel hotel hotel affirm 1 holding and then it should be possible to follow ils runway 06
+atco2_test7.wav,good thank you,roger thank you
+atco2_test8.wav,roger and log in you are inks 1 kilo,ruzyne tower hello again euro wings 1 tango kilo
+atco2_test9.wav, europīgi flankenko kilo russieta varu gudaftunu go ahead,euro wings 1 tango kilo ruzyne tower good afternoon go ahead
+atco2_test10.wav,just a question do you think there is a chance for us to get runway 24 for departure,just a question do you think there any chance to get runway 24 for departure
+atco2_test11.wav, nufočena pli visi dillai because there are 5 aircraft on runway 06 landing,unfortunately with delay because there are 5 aircraft on runway 06 landing
+atco2_test12.wav,ok copied thank you,ok copy thank you
+atco2_test13.wav, Warsaw radar belaviā 870 gedevnien 53350 inbaudz bīt gub,warsaw radar bel avia 870 good evening flight level 350 inbound bigu
+atco2_test14.wav,air inter nannotsubria walk her back turn right heading 090,ryan air 92 bravo quebec turn right heading 090
+atco2_test15.wav, 920 degrees vrenenai 920 ka bēr,90 degrees ryan air 92 bravo quebec
+atco2_test16.wav, Skyro 2827 and there is cross air space below flight level 100 so if you wish to avoid cross air space next descent in a 20 miles,sky travel 2827 and there is closed echo airspace below flight level 100 so if you wish to avoid class echo airspace next descend in 20 miles
+atco2_test17.wav, skarko čalās pa paskuls 7000 grubāju,oscar kilo charlie alfa papa squawk 7000 good bye
+atco2_test18.wav, Koksais argi bārši oski ir ašajā pat,squawk 7000 good bye oscar kilo charlie alfa papa
+atco2_test19.wav, tur par ko iekko lima alfa kliem 2570,oscar kilo echo lima alfa climb to flight level 70
+atco2_test20.wav, Aoskort kino bravo alfa lima reikvests sotkatu laišampīgi posibu,oscar kilo bravo alfa lima request shortcut to vlasim if possible
+atco2_test21.wav, Skari uniforme romeo turn left heading 270 cleared foil as approach runway 24,oscar uniform romeo turn left heading 270 cleared for ils approach runway 24
+atco2_test22.wav,tun left 274 please for i left runway 24 iskri  so mami,turn left to 70 cleared for ils runway 24 oscar uniform romeo
+atco2_test23.wav,thank you,say again the departure we for us
+atco2_test24.wav, Es bālu 2 alfa to klamp 5 000 tīt,it is baltu 4 alfa to climb 5000 feet
+atco2_test25.wav,guten turn i think o papa contact braharidhar 120.275 bye bye,lufthansa 9 tango papa contact praha radar 120.275 bye bye
+atco2_test26.wav, Standa lintas apropa 2027 bye bye,lufthansa 9 tango papa 20275 bye
+atco2_test27.wav, mermaira 690 juliet kontrakt ir uz ieniet avai 134.560 eski viņa čera avai,time air 690 juliett contact ruzyne tower 134.560 hezky vecer ahoj
+atco2_test28.wav, 134560 iet ar otta iemaira 690 juliet,134560 time air 690 juliett bye diky
+atco2_test29.wav, oscar kilo bravo alfa lima  after book up descend to 3000 feet cleared rmb approach rangvair 27 report established,oscar kilo bravo alfa lima after bukap descend to 3000 feet cleared rnp approach runway 27 report established
+atco2_test30.wav, sierra papa foxtrot lima foxtrot contact vina radar 125.175 good bye,sierra papa foxtrot lima foxtrot contact wien radar 125.175 good bye
+atco2_test31.wav, oscar ielotango oscar papa proceed direct to la nux,oscar kilo tango oscar papa proceed direct lanux
+atco2_test32.wav, Ā direk planu oscar tieto oscar papa,direct lanux oscar kilo tango oscar papa
+atco2_test33.wav, Tā radar of kirkulini frampti riča nii du briedenu pasink 3900 klm ikslau 70 inbound vlasim reidie par ifa,praha radar oscar kilo uniform tango charlie dobry den passing 3900 climbing flight level 70 inbound vlasim ready for ifr
+atco2_test34.wav, oscarglu un informatingo charlie du brieden preha radar identified,oscar kilo uniform tango charlie dobry den praha radar identified
+atco2_test35.wav,klm flight level 70 and cleared to her destination bernish via flight planned route,climb flight level 70 and cleared to destination benesov via flight plan route
+atco2_test36.wav, iaffair flight starts now time 1314,ifr flight starts now time 1314
+atco2_test37.wav,german 350,klm 1350
+atco2_test38.wav,good day guys,sorry go ahead
+atco2_test39.wav,air contact radar 120275 fahoj,yeah contact radar 120275 ahoj
+atco2_test40.wav,luvun 0275 hau ikhän on 1350,120275 ahoj klm 1350
+atco2_test41.wav,lufthansa nerudenku papa kontext brager radar 120.275 buj bye,lufthansa 9 tango papa contact praha radar 120.275 good bye
+atco2_test42.wav,120275 bye bye and i think bye bye,120275 bye bye 9 tango papa
+atco2_test43.wav, Koskārki oki oki oki viski descentu 5000 feet kiloen h1016,oscar kilo kilo kilo whiskey descend to 5000 feet qnh 1016
+atco2_test44.wav, kāri kilo maga lata hotelu passem esi tši,oscar kilo mike delta hotel pass your message
+atco2_test45.wav,is it ok for you if we maintain 4 nautical miles left of track all the way down to benesha,is it ok for you if we maintain 4 nautical miles left hand track all the way down to benesov
+atco2_test46.wav, Karko ķaeri alfa papa i fable increase speed par route geneviks,oscar kilo charlie alfa papa if able increase speed approaching traffic
+atco2_test47.wav, 07 alfa bravo turnerite heading 210 cleared iela serojta mvēr 24 iport established,euro wings 7 alfa bravo turn right heading 210 cleared ils approach runway 24 report established
+atco2_test48.wav,same 210 cleared for the alis 24 report established earrings 7 of a bravo,ding 210 cleared for the ils 24 report established euro wings 7 alfa bravo
+atco2_test49.wav,speed bird 855 perja radar identified 55 level 160,speed bird 855 praha radar identified climb flight level 160
+atco2_test50.wav,160 speed bird 855,160 speed bird 855
+atco2_test51.wav, Copernico mike charlie charlie rannu vei 27 kliptu loproger vins 320 degrees 5 knots aptulu approach kontinu striehead sklam 2300,oscar kilo mike charlie charlie runway 27 cleared for low approach wind 320 degrees 5 knots after low approach continue straight ahead climb to 3000 feet
+atco2_test52.wav, Ruzieta OCS seiz vairu 1.zulu labrī podveci iem establish lau klisai 24,ruzyne tower csa 1 delta zulu dobry podvecer established localizer 24
+atco2_test53.wav, labrī ensiesi 1. osabu ruzini aprabbra hrana 824 kliet 1 vent 220 degrees 1 forno,dobry den csa 1 delta zulu ruzyne tower runway 24 cleared to land wind 220 degrees 14 knots
+atco2_test54.wav, arpietu ir arvēju 24 siss airi 1.0,are cleared to land runway 24 csa 1 delta zulu
+atco2_test55.wav, oscar kilo uniform tango charlie riz   release from frequency fly in information service ava  bair 121 par hain formation to biedien,oscar kilo uniform tango charlie re release from frequency flying information service available at 126.1 praha information dobry den
+atco2_test56.wav, oscar kilo kilo iku alfa braha radar identified contact level 108 i sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasvairi sasv,oscar kilo kilo echo alfa praha radar identified climb flight level 100 ifr flight starts now time 05 cleared to destination via flight plan route
+atco2_test57.wav,shirco charvi tango papa line up runway 2 for anway,oscar kilo charlie tango papa line up runway 24 and wait
+atco2_test58.wav, Lai nebri ietu par enta par karistu gubapam,line up runway 24 and wait oscar kilo charlie tango papa
+atco2_test59.wav, 6198 axi holling point ranoi 24 to the right via delta bravo,csa 918 taxi holding point runway 24 to the right via delta bravo
+atco2_test60.wav, taxi delta bravo link point 24 csa 918,taxi delta bravo holding point 24 csa 918
+atco2_test61.wav, Atklamā alfa 01817 zuri flight point buvus suspendita ieriem sendingi delay message,romeo alfa 01817 your flight plan was suspended i am sending delay message
+atco2_test62.wav,118.650,118.1650
+atco2_test63.wav, Liettas heiss bye bye,that s it bye bye
+atco2_test64.wav, Vimteam 404 klio teksie charlie lima and kebek behind foamyka to stents sierra 3,dream team 404 kilo taxi charlie lima and quebec behind follow me car to stand sierra 3
+atco2_test65.wav, lukaliem 73 visk ieta jūs biet 160 no stilu 40,and klm 73 whiskey reduce speed 160 knots till 4 dme
+atco2_test66.wav, 604 diena viņi klientu viņi,60 to 4 dme klm 73 whiskey
+atco2_test67.wav, Sirs esam 66 continue turnuvi lima kebek kebek 5 vairam for mī stend mike 1 bravo,silesia 762 continue charlie lima quebec quebec 5 behind follow me stand mike 1 bravo
+atco2_test68.wav,buongiorno 1 bravo alfa standby 67.81012 requested in,ryan air 1 bravo alfa stand 57 qnh 1012 request engine start
+atco2_test69.wav,region rvps 295 alas 249 alas,ruzyne tower ups 295 ils 249 miles
+atco2_test70.wav, Good evening you pass 295 ruzmiet avroj ar hrvēj 24 klietu lant event 230 degrees 13 knots,good evening ups 295 ruzyne tower runway 24 cleared to land wind 230 degrees 13 knots
+atco2_test71.wav,oight 24 good line bs295,runway 24 cleared to land ups 295
+atco2_test72.wav, Oscar kelu papa romeo mike turn right heading 060,oscar kilo papa romeo mike turn right heading 060
+atco2_test73.wav, 060 right turn oscar papa romeo mike,060 right turn oscar papa romeo mike
+atco2_test74.wav, emiric 139 ots ievaira buks trot cross 7 v even 2 golf juliet 1014 alfa,emirates 139 taxi via foxtrot cross runway 12 golf juliett stand 14 alfa
+atco2_test75.wav, okria klub strupti kautta andri 1 2 to golfu tudiju iet stāndu 1 or alfa munt 1 perināj,taxi via foxtrot cross runway 12 golf juliett stand 14 alfa emirates 139
+atco2_test76.wav, kramai papa 10 reit heading 020 klidā separu ksranvē 06 speed maksilu 16 reno,oscar mike papa turn right heading 020 cleared ils approach runway 06 speed maximum 160 knots
+atco2_test77.wav, Rai heading 020 klid albiens appročia 06 and maximum 160 speed confirm,right heading 020 cleared ils approach 06 and maximum 160 speed confirm
+atco2_test78.wav, are you confirmed,i do confirm
+atco2_test79.wav, tur ko olima papa visura stendbai 4anvē 099 for nows polo tumka 4 charlie ir iero due to departions rambena,kilo lima papa victor standby for runway 09 for now follow tumka 4 charlie arrival due to departure from brno
+atco2_test80.wav, oscar kevo tango uniform romeo braha radar hallo identified climb to flight level 70 and standby for IFR,oscar kilo tango uniform romeo praha radar hello identified climb to flight level 70 and standby for ifr
+atco2_test81.wav, Climbing to pleidlēlu 70 skrk luta mēriem ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir,climbing to flight level 70 oscar kilo tango uniform romeo
+atco2_test82.wav," Es kaptu ir gucā līda, tja",oscar tango charlie roger
+atco2_test83.wav, Koškar kiva kiva kiva viski ies  information mike q and h16 tunkam 4 charlie raivo,oscar kilo kilo kilo whiskey information mike qnh 1016 tumka 4 charlie arrival
+atco2_test84.wav,,radar csa 1 delta zulu established
+atco2_test85.wav,tsa 1 delta zurich you are contacted to russina tower 134.560,csa 1 delta zulu roger contact ruzyne tower 134.560
+atco2_test86.wav, 34560 please say 1 of the zurich                                                                                                                                                                                                                                                                                                                                                                                                                                                  ,34560 csa 1 delta zulu pekny den
+atco2_test87.wav, air fans 108 zuros tanda bai now descent to f  descent flight law 70,air france 108 zulu standby now descend to descend flight level 70
+atco2_test88.wav, tur ap france mums tur iktu,air france 108 zulu
+atco2_test89.wav,good evening lufthansa hotel romeo passing 2500 climbing 5 tour,good evening lufthansa 8 hotel romeo passing 2500 climbing 5000
+atco2_test90.wav, lukta ansa 800 romeo bravairi airi good evening identified,lufthansa 8 hotel romeo praha radar good evening identified
+atco2_test91.wav, Climbs you flight level 160,climb to flight level 160
+atco2_test92.wav,lufas 82 romeo climb flight level 16,lufthansa 8 hotel romeo climb flight level 160
+atco2_test93.wav,kl 2 dot sierra india turn left heading 100,oscar kilo delta sierra india turn left heading 100
+atco2_test94.wav, left heading 100 oska kildu strangļa,left heading 100 oscar kilo delta sierra india
+atco2_test95.wav, oscargo india foxu tromeo contact braha radar 127.580 bye,oscar kilo india foxtrot romeo contact praha radar 127.580 bye
+atco2_test96.wav," Pabinieta, vairam 042 adam rivi iet stablīgi lokalisair 24",ruzyne tower trans europe 421 dobry vecer establish localizer 24
+atco2_test97.wav, taram 0421 duviem iesa iet avara kontiniet pregūtši ar 80,trans europe 421 dobry vecer ruzyne tower continue approach runway 24
+atco2_test98.wav,roger 821 82420,continue approach runway 24 trans europe 421
+atco2_test99.wav, ok alki ir mike charlie charlie after aroi approach climb straight ahead 4000 feet,oscar kilo mike charlie charlie after the low approach climb straight ahead 4000 feet
+atco2_test100.wav, Asero progeru ieta vairu košu,after approach climb straight ahead 4000 feet oscar kilo mike charlie charlie
+atco2_test101.wav,tau good morning white team 489 f  6 7 0 10 8,tower good morning quality 4089 fully established on the runway 09
+atco2_test102.wav, Kulieti 4089 tur un izbārdu good morning randvī 09 quiietu and windis kam,quality 4089 turany tower good morning runway 09 cleared to land wind is calm
+atco2_test103.wav, klm 123 viski maitim prezading for vectoring halsu prošanu 824 and 30 speed now bello 260 no,klm 73 whiskey maintain present heading for vectoring for ils approach runway 24 and reduce your speed now below 260 knots
+atco2_test104.wav, squad traw 352 es un ir aight heading 180 veks turni svarpēj siks,sky travel 35 juliett turn right heading 180 vectoring for spacing
+atco2_test105.wav, altena graid heading 180 skaitro 35 juliet,turning right heading 180 sky travel 35 juliett
+atco2_test106.wav, Oskampi monglapa indie ievakiet viadiksvii viski krosa randvēj 26 and continue to the air club,oscar kilo alfa papa india vacate via taxiway whiskey cross runway 26 and continue to the airclub
+atco2_test107.wav, Pika ieta viņi tikros 26 m ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta,vacate via whiskey cross 26 and vacate via the airclub oscar kilo papa india
+atco2_test108.wav, tavas du pregeru pulneri 1 juliet uniform hapikam in fuļa establish alis runway 24 speed maximum 180,tower dobre dopoledne ryan air 1 juliett uniform becoming fully established ils runway 24 speed maximum 180
+atco2_test109.wav, Rana air van juliet un išaundu briķenu kontinu projušu,ryan air 1 juliett uniform dobry den continue approach
+atco2_test110.wav, kontrviju prošiem mňa 1 2 3 4,continue approach ryan air 1 juliett uniform
+atco2_test111.wav, ibi mieta stinau tā vispēju,ups 295 established
+atco2_test112.wav,ups 295 contact tower frequency 134560 bye,ups 295 contact tower frequency 134560 bye
+atco2_test113.wav, yes you never can,ups 295 good night
+atco2_test114.wav,tarom 7 roger mike re  switch in now hold it for now with 24 we are ready for the bus,ryan air 7 romeo mike route reaching and holding runway 24 we are ready for departure
+atco2_test115.wav, ar neesamura mums aiz kalaina par nav iet dufo,ryan air 7 romeo mike line up runway 24
+atco2_test116.wav,stand up 1hw244 rhein and 7 romeen mike,line up and wait runway 24 ryan air 7 romeo mike
+atco2_test117.wav,hof kerkillo papa mike bravo it is half level 100,oscar kilo papa mike bravo descend flight level 100
+atco2_test118.wav, tur lai 100 oscarg jau bravo,level 100 oscar kilo papa mike bravo
+atco2_test119.wav,air interia 1 bravo for start of disapproved,ryan air 1 bravo alfa startup is approved
+atco2_test120.wav,that s pretty dry on 1 brother,startup approved ryan air 1 bravo alfa
+atco2_test121.wav, Rheinair 738 hotel turn left heading 360,ryan air 73 alfa hotel turn left heading 360
+atco2_test122.wav, tur reindies 738,ryan air 73 alfa hotel
+atco2_test123.wav, Ofkar ko miet salli salli braha radaru bri vienu you are identified flight level 70 after bau ltu proceed to benešo,oscar kilo mike charlie charlie praha radar dobry den you are identified flight level 70 after baltu proceed to benesov
+atco2_test124.wav, oscar kilo kilo un november prociende direct baltu,oscar kilo kilo uniform november proceed direct baltu
+atco2_test125.wav, Pilspiss ieta ieta malta skatīt ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta ieta iet,proceed direct baltu oscar kilo kilo uniform november
+atco2_test126.wav, Champrāna 803 uvicīta to lai teksi charlie alfa standu westenai pern,jump run 803 vacate to the left taxi charlie alfa stand western apron
+atco2_test127.wav,ok the fo  car from the airport to the village,oscar kilo foxtrot alfa sierra approaching zulu
+atco2_test128.wav, oscarp tino foxtu 2003 sera sko 7000 good bye,oscar kilo foxtrot alfa sierra squawk 7000 and good bye
+atco2_test129.wav, Es ko iesamtais ir griba oskieto kašos ies,squawk 7000 good bye oscar foxtrot sierra
+atco2_test130.wav, kakroviski november lima formation expedite reciting viā bravo antiktsi to foxtrot bravo alfa,oscar kilo whiskey november lima information exprite vacating via bravo and taxi to foxtrot bravo affirm
+atco2_test131.wav, ieru ireu 4 sorgai level 432 bapapas vienk 1900 par viņa 5 ras,radar dobre odpoledne sky travel 432 papa passing 19 hundred climbing to 5000
+atco2_test132.wav, Skyro 432 papa dobera būda nebara harida ar identifiedi klā vlaidluvam 16,sky travel 432 papa dobre odpoledne praha radar identified climb flight level 160
+atco2_test133.wav,klādu valero 16 ores kādu 4432 pa pa,climb to flight level 160 sky travel 432 papa
+atco2_test134.wav, there is a car in the way to rote  reiko,via charlie zulu hotel echo
+atco2_test135.wav, այդ շատ և և և և և և և և և,heli charlie zulu next report zulu 1 local traffic helicopter on hook mission over chalet
+atco2_test136.wav, hotel frasatviktoskark echo 1 at 6000 feet,hotel foxtrot oscar echo 1 at 6000 feet
+atco2_test137.wav, fox oscar report echo 24 and 825,foxtrot oscar report echo 2 for runway 25
+atco2_test138.wav,2 bravo sierra to the left taxi with,2 bravo sierra to the left taxi with
+atco2_test139.wav, Tu par xtraik ovo rām,hotel hotel xray go around
+atco2_test140.wav, tur iksai,hotel xray
+atco2_test141.wav,tax to gvm parking approved,hotel echo xray taxi to juliett parking approved
+atco2_test142.wav,hotel bravo 3049 short tower good afternoon,hotel bravo 3049 sion tower good afternoon
+atco2_test143.wav,and the sierra paro  the hotel                                                                                                                                                                                                                                                                                                                                                                                                                                                   ,and sion tower the hotel xray quebec we just continue toward the grande dixence
+atco2_test144.wav, Ko tavis sāk iemair koķa afrika siiet siena provstu tu lita,hotel xray quebec roger frequency change approved talk to you later
+atco2_test145.wav,tango 77 charlie o mike  tschu,tango 7 charlie lima mike sion
+atco2_test146.wav,november 2 looking after number 1 of the local,number 2 looking out for number 1 hotel hotel
+atco2_test147.wav,hotel echo xray wind 230 degrees 6 knots from way 25 cleared to land,hotel echo xray wind 230 degrees 6 knots runway 25 cleared to land
+atco2_test148.wav, o  telo tiliva november oski 5500 feet climb,hotel hotel lima november whiskey 5500 feet climbing
+atco2_test149.wav, alta  bravo whiskey zulu hotel st avon he  port,hotel bravo whiskey zulu hotel sion tower report
+atco2_test150.wav, lukas forten oscar oscar,looking out hotel oscar delta
+atco2_test151.wav,hotel golf alfa report up on route,hotel golf alfa report upon route
+atco2_test152.wav, Pauti jau par ar ietis par sena ko tviu ko to bravo svarbu papa zulu,sion tower at departure echo 2 for turn bravo papa zulu
+atco2_test153.wav,bich air 0 roger report kronen completed,heli charlie zulu roger report ground completed
+atco2_test154.wav, Rai 0121927 bye bye,1012 runway 27 bye bye
+atco2_test155.wav,hotel echo xray wind 270 degrees 5 no turn way 25 cleared to land,hotel echo xray wind 270 degrees 5 knots runway 25 cleared to land
+atco2_test156.wav,hotel bravo kilo echo excercise is approved,hotel bravo kilo echo xray exercises is approved
+atco2_test157.wav,hotel alfa bye bye you made this a frequency bye bye,hotel alfa papa you may leave the frequency bye bye
+atco2_test158.wav,hotel el salima echo 148 6 o m ll si,hotel alfa lima echo 14600 feet
+atco2_test159.wav, till delta lima report echo 2,hotel delta lima report echo 2
+atco2_test160.wav,report base france 07 o report until november,report base for runway 07 or report hotel november
+atco2_test161.wav,hotel sierra whiskey wind 238 knots turn right to 5 just stop and go,hotel charlie whiskey wind 230 degrees 8 knots runway 25 just stop and go
+atco2_test162.wav, we can change the proof o totale,frequency change approved a toute a l heure
+atco2_test163.wav,alitalia coexact number 1125,hotel echo xray number 1 runway 25
+atco2_test164.wav, ala papa passeongen ramello,sierra alfa papa sion ground hello
+atco2_test165.wav, alay karlsruhe wind 268.9 turn way to 5 good for tag tango,hotel echo xray wind 2609 knots runway 25 cleared for touch and go
+atco2_test166.wav, Pieta iemēr vairies ufairies mērīk vai,touch and go runway 25 hotel echo xray
+atco2_test167.wav,roxlima delta adjunta and wind runway 25,foxtrot lima delta join downwind runway 25
+atco2_test168.wav,kl rambi indanwede 254 kurssimme delta,tourning downwind runway 25 foxtrot lima delta
+atco2_test169.wav,moskito 60 echo ready to change,mosquito 60 echo ready to check
+atco2_test170.wav,air trusset for rhein whiskey 215 bravo,it was for mosquito 15 bravo
+atco2_test171.wav, yes muskieto 15 bravo are you turning way now,yes mosquito 15 bravo are you turning base now
+atco2_test172.wav, Es tur tik bērs nav puskieto 1 reims bravo,turning base now mosquito 15 bravo
+atco2_test173.wav,affirm sierra golf kilo stop please own position sorry sir own position could you back,sie sierra golf kilo stop please hold position sorry sir hold position call you back
+atco2_test174.wav,air bergina 4000 feet left non wind,yes we are approaching 2000 feet left downwind
+atco2_test175.wav, Nextrino 25 hotel charbi juliet,next final 25 hotel charlie juliett
+atco2_test176.wav,and see you on tower nafdika is established,sion tower afternoon established
+atco2_test177.wav,merch air 511 tower hello again report going around,nav checker 511 tower hello again report going around
+atco2_test178.wav,lux aviation 22 hotel sian bonjour,luxor 22 hotel sion bonjour
+atco2_test179.wav, Stelika xtrā number 1 report saino,hotel echo xray number 1 report final
+atco2_test180.wav, Naukairu 1 impa ndu rissini kvijas reik,number 1 report final hotel echo xray
+atco2_test181.wav,hapag lloyd sfa roger  inter  tschu  ni  preng bravo  an  report feli,hotel echo xray roger taxi holding point bravo and report ready
+atco2_test182.wav,roger did you do a flight notification,roger did you do a planification
+atco2_test183.wav, Posta bravo sriko ieso iegro vo sriko 5400,hotel bravo golf kilo echo 14000 feet
+atco2_test184.wav, 12 kilo thank you continue descend report echo 2,golf kilo thank you continue descend report echo 2
+atco2_test185.wav, Tad tik ar pat varm iespēl to rauc kliming par 14,nav checker 511 go around climbing 57000 feet
+atco2_test186.wav,lufthansa 511 roger what s the next profile,nav checker 511 roger what is next profile
+atco2_test187.wav,and the challenge that we have the traffic in sight,heli charlie zulu we have the traffic in sight
+atco2_test188.wav,roger able confirm behind,roger able confirm behind
+atco2_test189.wav,ok lal papa  x  s  port bavrin renai 25,hotel papa mike report downwind runway 25
+atco2_test190.wav, so downwind 15 o tera,roger downwind 25 hotel papa mike
+atco2_test191.wav,roger hotel foxtrot kilo report whiskey kunish 1023,roger hotel foxtrot kilo report whiskey qnh 1023
+atco2_test192.wav,hotel golf kilo you are mainly frequency bye bye,hotel golf kilo you may leave frequency bye bye
+atco2_test193.wav,air malta 233 taxi to parking is approved,tango 213 taxi to parking is approved
+atco2_test194.wav, 3426 joiningen right hand on wind runway 25 gras,3426 joining right hand downwind runway 25 grass
+atco2_test195.wav, 3426 say 250 degrees 120 degrees grass 25 landing on the fresh,3426250 degrees 12 knots grass 25 landing on discretion
+atco2_test196.wav, Ja mēs mēs ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār ir vispār irpā ir vispār irpā ir vispār irpā ir vispār irpā ir vispār irpā ir vispār irpā ir vispār irpā irpā ir vispār irpā irpā ir vispār irpā irpā ir vispār irpā irpā ir vispā ir vispār irpā irpā irpā ir vispā irpā ir vispār irpā irpā irpā irpā irpā irpā irpā irpā irpā irpā irpā irpā irpā irpā irpā irpā irp,landing on my discretion 3426
+atco2_test197.wav, Taga ir tur jau 3x5 ieri ietena,say again can you 3 by 5 heli hotel yankee
+atco2_test198.wav,heli hotel yankee genege 1017 report hotel echo or golf echo due discretion,heli hotel yankee qnh 1017 report hotel echo or golf echo at your discretion
+atco2_test199.wav, Naptika 511 pro tikt 1000 es par 10000 sīt,nav checker 511 reporting 100010 thousand feet
+atco2_test200.wav,thank you now check air 511 you can contact geneva delta on frequency 119.175,thank you nav checker 511 you can contact geneva delta on frequency 119.175
+atco2_test201.wav,see you on november 716 alfa sierra alpine jet ready for taxi,sion november 716 alfa sierra alpine jet ready for taxi
+atco2_test202.wav,air merfa sierra taxi touring point delta,november alfa sierra taxi to holding point delta
+atco2_test203.wav,18 point thousand november 716 alfa tierra,holding point november 716 alfa sierra
+atco2_test204.wav,air malta 249 lima copy line up and wait runway 25,limajet 249 lima copy line up and wait runway 25
+atco2_test205.wav,i end up in way 25 lin  rickshall juliett,line up and wait 25 lima xray juliett
+atco2_test206.wav,hotel echo 833 report echo 1 runway 25 qunage 1017,hotel echo xray report echo 1 runway 25 qnh 1017
+atco2_test207.wav, Tienic 1017 rana 25 will go hoteli koicu,qnh 1017 runway 25 wilco hotel echo xray
+atco2_test208.wav,delta coast bay final 25 for the checkro,hotel echo xray final 25 for touch and go
+atco2_test209.wav,yeah 267 re  expect to do the same,vista jet 467 we expect to descend
+atco2_test210.wav,lufam  rhein meren  golf papa read back correct report for taxi,november golf papa read back correct report for taxi
+atco2_test211.wav,alitalia quick 300254 tschu and go,hotel echo xray final 25 for touch and go
+atco2_test212.wav, hotel papa vair iek  perfect thank you very much,hotel papa mike perfect thank you very much
+atco2_test213.wav, bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye,thank you very much hotel papa mike
+atco2_test214.wav, tian rong rambongio tè bravo kilo                    ,sion ground bonjour hotel bravo kilo xray
+atco2_test215.wav,hotel europa golf bravo bonjour nishir report echo 1 runway 25 künich 1019,hotel bravo papa golf bravo bonjour monsieur report echo 1 runway 25 qnh 1019
+atco2_test216.wav,hotel bravo kilo papa echo 210 degrees for now turn way 25 cleared take off report november whiskey,hotel bravo kilo papa echo 210 degrees 4 knots runway 25 cleared takeoff report november whiskey
+atco2_test217.wav,alitalia yankee winds 240 degrees 15 knots fato 25 link on these questions,heli hotel yankee wind 240 degrees 15 knots 5225 landing on discretion
+atco2_test218.wav,air india district 225 tell your feet,landing on discretion 5225 hotel yankee
+atco2_test219.wav, Telikko xtraya number 1 botu final,hotel echo xray number 1 report final
+atco2_test220.wav, Naukta 1 report finala tagad kvijas fej,number 1 report final hotel echo xray
+atco2_test221.wav, Naftschik air 511 report passing 13000 feet in climb,nav checker 511 report passing 13000 feet and climb
+atco2_test222.wav,you are cool,wilco
+atco2_test223.wav, hotelgos bravo stretin 25 num. 1,hotel golf bravo straight in 25 number 1
+atco2_test224.wav,air 951 standby call you back,b air 951 stand by call you back
+atco2_test225.wav, tarpte kappasen 1,affirm nav checker 5 papa 1
+atco2_test226.wav, bye bye,roger
+atco2_test227.wav, papa vajag vajag ietu be lefta then straight ahead until further advised,papa mike vacate to the left and then straight ahead until further advised
+atco2_test228.wav,the left and then right and what s the problem,the left and then straight ahead hotel papa mike
+atco2_test229.wav,hapag lloyd 365 sian tower good morning air taxi heading point,tango 365 sion tower good morning air taxi holding point
+atco2_test230.wav,gulf air 07 can h1018,golf runway 07 qnh 1018
+atco2_test231.wav, projection roll run 072910 ietas,instruction golf runway 07 qnh 1018 tango 365
+atco2_test232.wav, Palskiju 18752,passing 1300078528
+atco2_test233.wav, swiss air force 528 contact swiss radar 124.225 good bye,swiss air force 528 contact swiss radar 124.225 good bye
+atco2_test234.wav, 124225 jau par 5 viieta rau,124225 air force 528 aurevoir
+atco2_test235.wav,124.225 bn951 good bye,124.225 b air 951 good bye
+atco2_test236.wav,hook delta uniform report november whiskey went 270 degrees 10 oz romeo 25 cleared for takeoff,foxtrot delta uniform report november whiskey wind 270 degrees 10 knots runway 25 cleared for takeoff
+atco2_test237.wav, 634 take off 25 f  f  st  st  st  st  st   st   st   st   st   st   st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st  st,cleared for takeoff 25 foxtrot delta uniform thanks november whiskey
+atco2_test238.wav, you can see the point here in the stress zone to for a next 07 sorry make for a new video tomorrow,departure own discretion 25 next 07 sorry for leaving heli hotel yankee
+atco2_test239.wav,move on 365 entering valero on 2003 on feet climbing tschu an echo on 417,tango 365 entering val d heren 4300 feet climbing qnh 10176
+atco2_test240.wav, good afternoon,affirmation nav checker 511 good afternoon
+atco2_test241.wav,air tractor 511 hello,nav checker 511 hello
+atco2_test242.wav,hotel echo xray begin now in 254 tschu and go,hotel echo xray downwind 25 for touch and go
+atco2_test243.wav,hotel golf bravois echo 2833,hotel golf bravo is echo 2 at 3300 feet
+atco2_test244.wav, Kos bravo straitķin 25 no 1,golf bravo straight in 25 number 1
+atco2_test245.wav,netherlands of k,number 1 golf bravo
+atco2_test246.wav,hotel increase rate i mean 254 set set go,hotel echo xray downwind 25 for touch and go
+atco2_test247.wav, bonjour alitalia victor taxi is approved thank you sir bonne sari,hotel hotel victor taxi is approved thank you sir bonne soiree
+atco2_test248.wav, شوي زولو ديركشن ممتعنا كنفس,charlie zulu direction montana confirm
+atco2_test249.wav,yeah but no,affirmatif montana
+atco2_test250.wav,merci 220 degrees 3 knots 4207 QNH 1018 departs an discussion crossing climbing montana is approved,merci 220 degrees 3 knots 4207 qnh 1018 departure own discretion crossing climbing montana is approved
+atco2_test251.wav,lima mach 2 49 lima climb flight level 140 and maintain contact geneva arrival 136255,lima mike juliett 249 lima climb flight level 140 maintain contact geneva arrival 136255
+atco2_test252.wav, ensi on plaisir va,merci au plaisir aurevoir
+atco2_test253.wav,no sir you have to refoil a flight length,no sorry you have to refound the flight plan sir
+atco2_test254.wav,ok will ask your company quickly to re-found no problem mate same mistake thank you,ok we won t see company quickly to refound no problem technic
+atco2_test255.wav, 426 redjūd 2 by 5,426 redue 2 by 5
+atco2_test256.wav, 1 rai 25 ko līda pasik 1 3000 viņi 525,runway 25 call you passing 13000 feet 5 thank you
+atco2_test257.wav, hotelika xtray wind 250 degrees 18 natrana 25 dirta tango,hotel echo xray wind 250 degrees 18 knots runway 25 cleared touch and go
+atco2_test258.wav, 525                                                        ,runway 25 cleared touch and go hotel echo xray
+atco2_test259.wav,thank you can you just 1023,thank you qnh is 1023
+atco2_test260.wav, papa vajag parking istamo 10 bet it sēl viena sveisingi tudai sero ifai bet make 180 to parki back at parking 10,papa mike parking is tango 10 but it is with the knots facing to the east so if able make 180 and to park back at parking 10
+atco2_test261.wav,november hotel july the pressing traffic is turning downwind winds 1 question 260 degrees,november hotel juliett the preceding traffic is joining downwind wind 1 correction 260 degrees
+atco2_test262.wav, 1 nene natas ionei 25 kliet fortika fri port pasinga 13000 fietin kliem,19 knots runway 25 cleared for takeoff report passing 13000 feet and climb
+atco2_test263.wav, 3 proc. rai mēn bravo rukadiems viens,report on final bramois hotel yankee
+atco2_test264.wav, tā ir iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši iregši ,echo xray number 1 report final
+atco2_test265.wav, Un viņu 1 ots 5 ots ir ir kuri iespair,number 1 report final hotel echo xray
+atco2_test266.wav, 5 you may leave frequency,355 you may leave frequency a toute
+atco2_test267.wav,235,a toute 355
+atco2_test268.wav,next is bravo and off checker 541,next is bravo nav checker 511
+atco2_test269.wav, 511 roger Q and 8 still 1017 report in and go,nav checker 511 roger qnh 1017 reported in and go
+atco2_test270.wav,tango 366 final runway 25,tango 366 final runway 25
+atco2_test271.wav,thank you sir continue approach,thank you sir continue approach
+atco2_test272.wav,continue plz tag a 366,continue approach tango 366
+atco2_test273.wav,alitalia lima tango roger standby i coordinate with the military sector,hotel lima tango roger standby i coordinate with military sector
+atco2_test274.wav, Lembera alfa sierra wind 25 degrees 9 orna trannu 825 klid svar teikko fru portu 13000 visu klimingu,november alfa sierra wind 250 degrees 9 knots runway 25 cleared for takeoff report 13000 feet climbing
+atco2_test275.wav,sjontair guten afternoon helicopter hotel bravo zulu i  india juliett f  juliett fri parcifato 25 and then left turn and climbing direction nabaya,sion tower good afternoon helicopter hotel bravo zulu yes india juliett is passing india ready for departure 5225 and then left turn and climbing direction vernayaz
+atco2_test276.wav, Naštikai 511 report pasing 1 3000 siss nii kliem 47000 siss,nav checker 511 report passing 13000 feet and climb 417000 feet
+atco2_test277.wav,buco and after that climb in 17 thousand to the little port,wilco nav checker climbing 17000 will report
+atco2_test278.wav," Sjomta valbontjūr bier 95 van, establish on the isle sera rate 25",sion tower bonjour b air 95 now establish on the ils runway 25
+atco2_test279.wav,tajikori  freddy  freddy 25 o ful stop,hotel echo xray descending 25 for full stop
+atco2_test280.wav,hapag  passing 1 thousand 1 0 thousand feet in descent in the western sector boskito 15,passing 10001 0 feet in descent in the western sector mosquito 15 bravo
+atco2_test281.wav,6215 bravo correct and keep it up for glider activity north of the field,mosquito 15 bravo correct and keep an eyes for glider activity north of the field
+atco2_test282.wav,gallie charlie zulu wind 270 degrees 9 or not crossing rauwia axis and for the 25 line noncretion,heli charlie zulu wind 270 degrees 9 knots crossing runway access 5225 landing on discretion
+atco2_test283.wav, Kurskiju kasi lāsvīk kasa to tur tādu ka švada išaizu,crossing to landing 5225 landing on discretion heli charlie zulu
+atco2_test284.wav,tango 335 frequency change approved good bye,tango 335 frequency change approved good bye
+atco2_test285.wav,good bye,good bye
+atco2_test286.wav,hokstop lima delta taxi to olympia bravo runway 25,foxtrot lima delta taxi to holding point bravo runway 25
+atco2_test287.wav," Un bravo, ar neviens tūpa išokta, kā ir madaukta",point bravo runway 25 foxtrot lima delta
+atco2_test288.wav, ಸಾಗಿ ಸಾಗಿ,helicopter heli victor oscar good afternoon
+atco2_test289.wav, ಸಾದಿದ ಸಾದ ಸಾದ ಸಾದ ಸಾದ ಸಾದ ಸಾದ ಸಾದ ಸಾದ ಸಾದ ಸಾದ,victor oscar good afternoon
+atco2_test290.wav,we are not ready now,we are not ready now foxtrot lima delta
+atco2_test291.wav,air l  charlie juliett you passed because 2 continue for direct the approach of number 1 report final 25,hotel charlie juliett you passed echo 2 continue for direct approach as number 1 report final 25
+atco2_test292.wav, Next final 2 f                   ,next final 25 hotel charlie juliett
+atco2_test293.wav, Viss tādus 467 tions,vista jet 467 sion
+atco2_test294.wav,girly,go ahead
+atco2_test295.wav, Telik vai fray fina 25 rogeri mku,hotel echo xray final 25 for touch and go
+atco2_test296.wav,octrack lima delta route position and make your run up to present position can you turn 1015,foxtrot lima delta hold position and make your run up at your present position qnh 1015
+atco2_test297.wav,air bergsk air 541 is published,nav checker 511 established
+atco2_test298.wav,lufthag airfo  511 thank you report 10 miles,nav checker 511511 thank you report 10 miles
+atco2_test299.wav, The perfect swam viet baisi nav tikt ar 5 ar 1,reported 10 miles nav checker 511
+atco2_test300.wav,exha break break clear mosquito 15 robo 250 degrees 10 knots runway 25 clear to land,break break mosquito 15 bravo 250 degrees 10 knots runway 25 cleared to land
+atco2_test301.wav, there is an olympic 5 o sqe tta bravo,cleared to land runway 25 mosquito 15 bravo
+atco2_test302.wav, india lima you may leave atu,india lima you may leave a toute
+atco2_test303.wav, thank you much,thank you very much hotel golf kilo
+atco2_test304.wav, hoteli kviks air wind klm orana 25 klirs tagi ngo,hotel echo xray wind calm runway 25 cleared touch and go
+atco2_test305.wav, 1 8252,runway 25 cleared touch and go
+atco2_test306.wav,roger cut,hotel echo xray
+atco2_test307.wav, alitalia zulu report position altitude,heli charlie zulu report position altitude
+atco2_test308.wav, the cost of 10000 rw,le golf de montana 3200
+atco2_test309.wav,roger the traffic is now just exactly in the middle between echo and echo to 4600 feet,roger the traffic is now just exactly in the middle between echo 1 echo 24600 feet
+atco2_test310.wav, Raučiniet tanko alfa holdam pointe nda 25 ir un fully ready,bravo juliett tango alfa holding point delta 25 we are fully ready
+atco2_test311.wav,"hotel tango alfa report passing 13,000 feet wind 260 degrees 1 naut turn way 25 geufre takeoff",hotel tango alfa report passing 13000 feet wind 260 degrees 10 knots runway 25 cleared for takeoff
+atco2_test312.wav, Un tur teikuf 25 neks reportu 13000 feetu hotelu tango,cleared takeoff 25 next report the 13000 feet hotel tango alfa
+atco2_test313.wav,shari papa to confirm you proceed to shamino,charlie papa to confirm you proceed to chermignon
+atco2_test314.wav,rockshot lima delta bonjour tiannish 1023 wincom runway 25 flit for take off report november whiskey,foxtrot lima delta sion bonjour qnh 1023 wind calm runway 25 cleared for takeoff report november whiskey
+atco2_test315.wav, Tad ikku reign number 1 par final,hotel echo xray number 1 report final
+atco2_test316.wav, 1 report finalu peri kvikspēj,number 1 report final hotel echo xray
+atco2_test317.wav, Manšu diena kibā iespinau,9 juliett lima 3 miles final departure
+atco2_test318.wav,merid  jet lima wind 240 degrees 17.25 klik to land,9 juliett lima wind 240 degrees 17 knots runway 25 cleared to land
+atco2_test319.wav, 1218 ir nema,runway 25 cleared to land 9 juliett lima
+atco2_test320.wav,1400 feet for landing,clouds 400 feet for landing
+atco2_test321.wav,tag o f  runway 25 will report 7 miles from 0 maximum 11000 feet to 646,takeoff runway 257 miles from sion maximum 11000 feet vista jet 467
+atco2_test322.wav, Tajiet france 6,vista jet 467
+atco2_test323.wav, Tamo 313 stundu randri reikens tagi sietu prus,tango 313 sion ground hello again taxi approved
+atco2_test324.wav,hotel echo xray wind at 260 degrees 10 knots runway 25 klärt to land,hotel echo xray wind 260 degrees 10 knots runway 25 cleared to land
+atco2_test325.wav,to last only 25 or 30 degrees bye,cleared to land runway 25 hotel echo xray
+atco2_test326.wav, Tiktoks tierra number 1,takeoff sierra number 1
+atco2_test327.wav, number 1 of any course,number 1 hotel echo xray
+atco2_test328.wav,november alfa 0 line up runway 25,november alfa sierra line up runway 25
+atco2_test329.wav,2  taro  rei  continue  gil  s  al  again  rei  descend in front of 6000 s  6 thousand 833 descend for left  rei  so,hello tower helicopter india juliett hello again we are descending croix de coeur 6000 feet 6800 feet descend to left 52
+atco2_test330.wav, can you read report hotel sierra or go sierra can you read 1017,india juliett report hotel sierra or golf sierra qnh 1017
+atco2_test331.wav,roger kf 511 good afternoon,nav checker 511 good afternoon
+atco2_test332.wav,air navshamrock we are on the way to your airfield and i would like to know what is the actual cloud space you have in your area,nav checker 511 we are on the way to your airfield and i would like to know what is the actual ground base you have in your area
+atco2_test333.wav,info mgulf wind 2000 degrees 1 formato 125 klj  tag off right turn out climb approved report living,uniform golf wind 240 degrees 14 knots runway 25 clear takeoff right turn out climb approved report leaving
+atco2_test334.wav,take off right turn out and report leaving indi fongas,cleared to takeoff right turn out and report leaving uniform golf
+atco2_test335.wav,hotel echo xray 9125 attention go,hotel echo xray downwind 25 for touch and go
+atco2_test336.wav,fox delta uniform line up and wait via intersection alfa qn h 1217,foxtrot delta uniform line up and wait via intersection alfa qnh 1017
+atco2_test337.wav, what is it mike which party,lufthansa mike which parking
+atco2_test338.wav,buong mike continue for about 20 meters and then will be first a yellow line to the right,lufthansa mike continue for what 20 meters and then will be first a yellow light to the right
+atco2_test339.wav,say that and go to the hotel as per whiskey,35 tango hotel alfa whiskey
+atco2_test340.wav,ok approximately 15 minutes until the start thank you,ok approximately 15 minutes before starting thank you
+atco2_test341.wav,mbia 951 start up approved runway 252 h1012 report through a default taxi,b air 951 startup approved runway 25 qnh 1012 report ready for taxi
+atco2_test342.wav, Stair proof klinic 1012 no reporti reddi fort xtv bair 952,approved qnh 1012 report ready for taxi b air 952
+atco2_test343.wav,klm                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,hotel echo xray recleared full stop landing runway 25
+atco2_test344.wav, sierra bursa par viņa ir par ietas,recleared full stop runway 25 echo xray
+atco2_test345.wav,hotel echo xray report bernwing swin calm 125 tschu  take off,hotel echo xray report downwind wind calm runway 25 cleared for takeoff
+atco2_test346.wav, hotel papa vairi kvien speedi lai kontroli maku 18ieni backtrack 2 vacājiet at alfa,hotel papa mike 1 speed visual control make 118 backtrack to vacate at alfa
+atco2_test347.wav, teliko xray number 1 report final,hotel echo xray number 1 report final
+atco2_test348.wav, 1 4 5 noru tagad ir grei,number 1 report final hotel echo xray
+atco2_test349.wav, Tiesi trapīgi tādu apag ar vairu,we have the traffic in sight nav checker 511
+atco2_test350.wav,enjo,roger
+atco2_test351.wav,and passing 10 thousand feet to 4 thousand feet to reims avance,when passing 10 thousand feet to 4000 feet mosquito 15 bravo
+atco2_test352.wav,15 bravo thank you,15 bravo thank you
+atco2_test353.wav, ari oskaru zuru frekasiķai pro vieta,heli oscar zulu frequency change approved schone
+atco2_test354.wav, Es viņu šeķena hallijos kas salu,beste schone heli oscar zulu
+atco2_test355.wav, Tags gluyinga ar vairam ndrkauju 5 oma,taxi going around nav checker 511
+atco2_test356.wav, please bello  adjabee  adjab sierra 494225,charlie zulu seaching hotel sierra for landing fato 25
+atco2_test357.wav,german air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force air force,charlie zulu wind 25 which is at 14 knots fato 25 landing on discretion
+atco2_test358.wav,and i think i did great just 525 turn in the loop,landing on discretion fato 25 charlie zulu
+atco2_test359.wav,o we are not ready now for f  kemmerhoud,we are not ready now foxtrot lima delta
+atco2_test360.wav,roger station calling please pass your message,roger station calling please pass your message
+atco2_test361.wav,kl victor staf  ho  mission complete now aligning victor godio f  before departure,sion victor oscar hook mission completed now landing victor call you before departure
+atco2_test362.wav, Bigdavs kā rogera tur ir ļita,victor oscar roger talk to you later
+atco2_test363.wav, bye,thank you
+atco2_test364.wav,copter tango oscar you may leave the frequency bye bye,helicopter tango oscar you may leave the frequency bye bye
+atco2_test365.wav, tās ar osa laitam iegens iespai,tango oscar leave the frequency bye bye
+atco2_test366.wav,november check air 511 further climb is approved,nav checker 511 further climb is approved
+atco2_test367.wav," Turbāk vairam ir frupti iet, apķek ar fau",further climb approved again nav checker 511
+atco2_test368.wav, mach checker 511 contact stjoproger 126.825 talk to you later,nav checker 511 contact sion approach 126.825 talk to you later
+atco2_test369.wav,126825 turn to your radar after cut for long,126825 talk to you later nav checker 511
+atco2_test370.wav,delta whiskey,delta whiskey
+atco2_test371.wav, wind 2 fars ir visu 22 knots on rate 2 fars ir tul ent,wind 250 degrees 22 knots runway 25 cleared to land
+atco2_test372.wav,cleared to 9.5 sd,cleared to land hotel delta whiskey
+atco2_test373.wav,jag erbiensli   156  5  5 6 7 8 6 7 8 5 6 7 8 5 6 7 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8,hotel yankee saint martin 65000 feet for landing fato
+atco2_test374.wav, Lioteli yankee reporta teleni ko rogeru ko fai kokķena 217,heli hotel yankee report hotel echo golf echo qnh 1017
+atco2_test375.wav, i think it is a little bit more complicated,sion heli hotel bravo zulu charlie zulu we just upon val d annivier low altitude for hook mission established for 1 low altitude
+atco2_test376.wav,hotel hotel yankee win  kam 525 and discussion,hotel hotel yankee wind calm fato 25 landing own discretion
+atco2_test377.wav,tango 365 st aero kines 1023 report hotel november runway 25 in use,tango 365 sion tower hello qhn 1023 report hotel november runway 25 in use
+atco2_test378.wav, So 2325 thanks for 10 november 4225,sion 23 runway 25 next hotel november for 365
+atco2_test379.wav,roxtrot lima delta winded 250 degrees 12 knots runway 25 cleared to tschu-,foxtrot lima delta wind 250 degrees 12 knots runway 25 cleared touch and go
+atco2_test380.wav,november hotel juliett f  ok next left intersection golf and then taxi to running point delta,november hotel juliett vacate next left intersection golf and then taxi to holding point delta
+atco2_test381.wav,build back correct and you start to be that proofs kinesh 1014,read back correct startup is approved qnh 1014
+atco2_test382.wav, tango 313 gold is an etch at 8300 request to change,tango 313 col du sallest at 8000 feet requested change
+atco2_test383.wav, piron 3 you are mainly frankenstein and mersi bon sordet,c est rentre you may leave frequency merci bonne soiree
+atco2_test384.wav,leading left chapter  e  bu  sorry                                                                                                                                                                                                                                                                                                                                                                                                                                                  ,leaving merci a toi et bonne soiree tango 313
+atco2_test385.wav,hotel echo xray number 1,hotel echo xray number 1
+atco2_test386.wav, number 1 hotel echo,number 1 hotel echo xray
+atco2_test387.wav,hapag lloyd charlie juliett echo 1500 feet,hotel bravo kilo charlie juliett echo 15000 and 84800 feet
+atco2_test388.wav,hello charlie juliett next portico 2,hello charlie juliett next report echo 2
+atco2_test389.wav, Telika xtrēj wind 263.9 turnuji 25 taispauta tats tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā t,hotel echo xray wind 26 degrees 9 knots runway 25 cleared for touch and go
+atco2_test390.wav, Lietušan par 1.25 degrees,cleared for touch and go runway 25 hotel echo xray
+atco2_test391.wav,gian tower hotel bravo kilo echo xray,sion tower hotel bravo kilo echo xray
+atco2_test392.wav, hovair kevikt juliet traffic piper singa lanchin position 3 miles sosef your position proceeding towards willisau 4000 cidindikating not verified,hotel quebec juliett traffic piper single engine position 3 miles south of your position proceeding towards willisau 4000 feet indicating not verified
+atco2_test393.wav, Tau reilu gan mēlu ko tur braucu vi iespiliu 2 tikas 2300 viss klijad iespilsa ietu,berne tower hello again helicopter hotel bravo zulu whiskey juliett uttigen 2300
+atco2_test394.wav, Autorauzulu whiskey juliet per un taro llovi ndro tāda kontrol sone via route zulu xuniet 1027,hotel bravo zulu whiskey juliett berne tower hello again enter control zone via route zulu qnh 1027
+atco2_test395.wav, o                                                                                                                                                                                                                                                                                                                                                                                                                                                           ,hotel golf papa leaving ctr direction november
+atco2_test396.wav,hotel golf papa frequency change approved,hotel golf papa frequency change approved
+atco2_test397.wav, hotelijanki xray make 1 orbi to lai reporti komplet,hotel yankee xray make 1 orbit to the left report completed
+atco2_test398.wav, adabraukīlo golf november bern taga reilokijan 81027 intervairu zuru runway 32 newis trafik rega elikopteru tjust abim kairtu sēl iwing direktsiunu indikating 4500 feet not verified opposite,hotel bravo kilo golf november berne tower hello qnh 1027 enter via route zulu runway 32 in use traffic rega helicopter just abeam gerzensee leaving direction thun indicating 4500 feet not verified opposite
+atco2_test399.wav, palbopapamika 180 sest klīro stranvēj tagsi 2 holding point foxtrot,hotel golf papa make a 180 stay clear of the runway taxi to holding point foxtrot
+atco2_test400.wav,hotel golf delta wind 040 degrees 7 knots runway 14 cleared for takeoff,hotel golf delta wind 040 degrees 7 knots runway 14 cleared for takeoff
+atco2_test401.wav,hotel golf oscar wind 070 degrees 10 knots runway 14 cleared stachenko,hotel golf oscar wind 070 degrees 10 knots runway 14 cleared touch and go
+atco2_test402.wav,hotel golf oscar number 2 number 1 short final runway 14,hotel golf oscar number 2 number 1 short final runway 14
+atco2_test403.wav, Viķu trafika visi ietu reikā mums ir ieris kontrolms un tšena non saka,we have the traffic in sight rega 10 we leave the control zone schone namittag
+atco2_test404.wav,lake of 103 quince change to proof turn on,rega 10 frequency change approved schone nami
+atco2_test405.wav,for the november xray is identified the crossing is approved can h1022,hotel november xray 95 crossing is approved qnh 1022
+atco2_test406.wav,delta oscar victor you are still on the burn arrival frequency,delta oscar victoria you are still on the bern arrival frequency
+atco2_test407.wav, Hotelgolf papa continue on the runway recied via charlie then tagas ieri skuessinu blue sector,hotel golf papa continue on the runway vacate via charlie then taxi your discretion blue sector
+atco2_test408.wav,hotel delta lima via bravo then taxi your discretion blue sector if it s full green 4 is available,hotel delta lima via bravo then taxi your discretion blue sector if it is full green 4 is available
+atco2_test409.wav,oscar oscar papa charlie kilo it s for alfa flight to ecopara fo charlie india we have information delta is of start and alfa clearance,oscar oscar papa charlie kilo it s for ifr fly to echo bravo charlie india we have information delta it is for startup and ifr clearance
+atco2_test410.wav,sierra november expect landing soon shortly traffic on the runway is departing 32 op on to the west,sierra november expect landing clearance shortly traffic on the runways departing 3 top on to the west
+atco2_test411.wav, Hote bravo november bravo hotel crossing direksjon grentschen 400 piz approved qn. 1026,hotel bravo november bravo hotel crossing direction grenchen 4500 feet is approved qnh 1026
+atco2_test412.wav, Thank you break break kotokolf oscar helikopteru on your right hand side will cross behind you,thank you break break hotel golf oscar helicopter on your right hand side we will cross behind you
+atco2_test413.wav," Tinsaidu nav, hapēc ofa",hotel golf oscar
+atco2_test414.wav,hapag lloyd yankee from the entire good afternoon exit port breaking of city sardvina 32,hotel bravo kilo golf yankee from november good afternoon next report breaking off a city circling 321
+atco2_test415.wav, Lios kirbravo ar jau reddīt par expeditionscrossing hovdavai sviens tu valdongra,heli oscar bravo are you ready for expedition crossing otherwise you have to hold on
+atco2_test416.wav, turindie par tribiju iesjopē bravo charlie klipik 0 autos 5000 for 80,departure with hotel bravo charlie quebec sierra out of 5000480
+atco2_test417.wav, Octavero charliek iebeks sierra berni par tshelo identified climb to flight level 90,hotel bravo charlie quebec sierra when departure low defined climb to flight level 90
+atco2_test418.wav,hotel golf oscar leave contact with my route sierra wind at 040 degrees 13 knots 192 clear for takeoff,hotel golf oscar lift control lima route sierra wind 040 degrees 13 knots runway 32 cleared for takeoff
+atco2_test419.wav, hotel gofoscar rogeri ar jau ir atsīt at least 1 miles south of track,hotel golf oscar charlie wait to proceed at least 1 miles out of track
+atco2_test420.wav,hotelhotel golf   next left via delta to glusssektor,hotel hotel golf next left via delta to blue sector
+atco2_test421.wav, i can have any particular,say again heli lima juliett
+atco2_test422.wav,heli lima juliett shun mid left heli circuit 32 land at own discretion swiss helicopter wind 040 degrees 10 knots,heli lima juliett join mid left heli circuit 32 land at own discretion swiss helicopter wind 040 degrees 10 knots
+atco2_test423.wav, hotel kilo delta now to whiskey 1 is approved if you remain outside romeo 82,hotel kilo delta now to whiskey 1 is approved if you remain outside romeo 82
+atco2_test424.wav, hotel                                                                                                                                                                                                                                                                                                                                                                                                                                                           ,hotel golf papa is calling confirm
+atco2_test425.wav," Ja, that s copy trogero position",ja that is copied roger hold position
+atco2_test426.wav,tag of oscar upwind at 2001 and recede request left hand circuit runway 064 another and a last tango,takeoff golf oscar upwind 2100 feet request left hand circuit runway 06 for another and last touch and go
+atco2_test427.wav, ota golfoska make left hand circuities approved runway 14,hotel golf oscar make left hand circuit is approved runway 14
+atco2_test428.wav,o ta bravo juliett  leave hap on route whiskey when 030 degrees 10 knots runway 32 cleared for takeoff,hotel bravo juliett leave out on route whiskey wind 030 degrees 10 knots runway 32 cleared for takeoff
+atco2_test429.wav,heli india coro hotel whiskey 3600 please,heli india echo hotel whiskey 3600 feet
+atco2_test430.wav,lin air call and on is question to swiss air pick up the wind 070 degrees 6 knots,heli india echo land on discretion swiss helicopter wind 070 degrees 6 knots
+atco2_test431.wav,hotel golf november wind 060 degrees 9 o f  runway 14 cleared to land,hotel golf november wind 060 degrees 9 knots runway 14 cleared to land
+atco2_test432.wav, Otta loskarienki anytime direct līsapruf trafika res kljeli kopta passem mullerberg inbound to innslušt vita,hotel oscar yankee any time direct lyss approved traffic rescue helicopter passing muhleberg inbound to inselspital
+atco2_test433.wav, Procerik ļaiktuli sotel of kriakti iesluki aukta reilikopters iesunds bītok,proceeding direct to lyss hotel oscar yankee and looking out for helicopter near inselspital
+atco2_test434.wav, 2.0 stemplai,1 point 0 standby
+atco2_test435.wav,delta alfa uniform the field is at your 2 o clock position 4 miles confirm inside,delta alfa uniform the field is at your 2 o clock position 4 miles confirm in sight
+atco2_test436.wav, affirm fielisensa iden vierei reiho visual delta fino,affirm we descend flight and we are ready for visual delta alfa uniform
+atco2_test437.wav, Talfa uniform furt ir desendēt zuris kresnika ir visu aprojuča runway 32,delta alfa uniform further descend at your discretion cleared visual approach runway 32
+atco2_test438.wav, Tietu visu loproši 32 delta par uniform,cleared for visual approach 32 delta alfa uniform
+atco2_test439.wav, alfa infirm radar service terminājieti contact tower 121.025,delta alfa uniform radar service terminated contact tower 121.025
+atco2_test440.wav, Redo terminus 10125 bishpizza delta par uniform,radar terminates and 121025 bis spater delta alfa uniform
+atco2_test441.wav,good bye,good night
+atco2_test442.wav,octobroero charlie tango burn tower hello taxi via kilo to terminal north,hotel bravo sierra charlie tango bern tower hello taxi via kilo to terminal north
+atco2_test443.wav, Pats par ireli un hent no tel bravo pilo govam bravo iet zulu ad bai stīt iesendingi iem to mesta lipa lani ireli tulu,bern tower hello again hotel bravo kilo golf november zulu 5000 feet descending information charlie for landing by route zulu
+atco2_test444.wav, adbrau kilo gullo november bern tago kines 1026 inter viro zuru to tsoj un fain var on vi tretu,hotel bravo kilo golf november bern tower qnh 1026 and arrival route zulu to join final runway 32
+atco2_test445.wav,o November lima for the time being remain on this frequency,hotel november lima for the time being remain on this frequency
+atco2_test446.wav, Otta viskē ko nārvita 103 and reilīnu kombo un 4700 freq viņa ir ienbu,hotel whiskey echo now 3200 feet and leave the command for 7000 frequency change approved
+atco2_test447.wav, al whiskey alfa take seat holding point bravo rhein way 14,hotel whiskey alfa taxi to holding point bravo runway 14
+atco2_test448.wav,yeah of course then you can expect via far circuits after touching of report the breaking of romeo circling,yeah of course than you can expect vfr circuits after touch and go report taking off romeo circling
+atco2_test449.wav, hotelbarsija golf romeo bern taga intercontrolls par vairu to november tā ien miet lefta armena randvēj 14 klinie h1027,hotel bravo sierra golf romeo bern tower into control by route november join mid left downwind runway 14 qnh 1027
+atco2_test450.wav, turn approach hotel bravo frino bravo viss,bern approach hotel bravo kilo bravo victor
+atco2_test451.wav,ok kilo bravo victor bern,kilo bravo victor bern
+atco2_test452.wav,hotel golf sierra can offer you only 1 touch and go and then haupen route whiskey due to its lunch time there no circuits approved,hotel golf sierra can offer you only 1 touch and go then upon route whiskey due to it s launch time there are no circuits approved
+atco2_test453.wav, ari viskai charlie hotel echo 3000 feet,heli whiskey charlie hotel echo 3000 feet
+atco2_test454.wav,luis good morning,heli whiskey charlie
+atco2_test455.wav,hotel india alfa until 4 miles maintain 100 not so great,hotel india alfa until 4 miles maintain 100 knots or greater
+atco2_test456.wav, Kampēlu austriņi iregpa ieta norbi to the right 456,hotel oscar yankee request orbit to the right for spacing
+atco2_test457.wav, ko ta losklienkairbiet raita prov,hotel oscar yankee orbit right approved
+atco2_test458.wav,hotel tango uniform do you intend to cancel the i4 flight before fribourg,hotel tango uniform do you intend to cancelled the ifr flight before fribourg
+atco2_test459.wav,swiss radar 135680 neks 750 bye bye,swiss radar 135680 next 7508 bye bye
+atco2_test460.wav,hotel bravo papa november lima this is bern tower contact tun on 123.255,hotel bravo papa november lima this bern tower contact thun on 123.255
+atco2_test461.wav,hotel echo lima frequency change approved thank you good bye,hotel echo lima frequency change approved thank you good bye
+atco2_test462.wav, iša li papa trafiks ir lendi neko sun nepatri marieti tū albu rute ko apizici,heli charlie papa traffic landing aircraft soon departing runway 32 air bound route echo opposite
+atco2_test463.wav, quadriga 163 foxtrot descend to flight level 70,quadriga 163 foxtrot descend to flight level 70
+atco2_test464.wav,alright now ok good bye bye,roger hotel golf papa
+atco2_test465.wav,altergolf papa frequency change approved good bye,hotel golf papa frequency change approved good bye
+atco2_test466.wav,good bye,ok good bye hotel golf papa
+atco2_test467.wav, hotelos kakauja 910232 intersection fox dot,hotel oscar qnh 103 taxi 32 intersection foxtrot
+atco2_test468.wav,tango 331 number 1 is now on the right base,tango 331 number 1 is now on the right base
+atco2_test469.wav," Votegolfi, thank you roger klair and after touch and go is available",hotel golf yankee rodger clearance after touch and go is available
+atco2_test470.wav, fanbair mike afa roger tandu reclie straitina airis apro turn 4,november mike alfa roger and you are recleared straight in ils approach 14
+atco2_test471.wav,hotel echo echo leave control soon via route zulu wind 040 degrees 7 knots runway 14 cleared for takeoff,hotel echo echo please control zone via route zulu wind 040 degrees 7 knots runway 14 cleared for takeoff
+atco2_test472.wav, Altaj kosjera rogera irandis tutta 1 touch and go then 1 circuit again touch and go then whiskey,hotel golf sierra roger i understood 1 touch and go than 1 circuit again touch and go then whiskey
+atco2_test473.wav,hapag lloyd approaching bernsinti request to make an orbit over the bursas,papa foxtrot approaching bern city request to make an orbid over the bundeshaus
+atco2_test474.wav," papa foxtrot, that s ir pruft",papa foxtrot that is approved
+atco2_test475.wav, jau vi tā prūm stau  depapu foxtrot,orbit approved hotel papa foxtrot
+atco2_test476.wav,hotel golf november wind 010 degrees 10 knots runway 14 cleared to land,hotel golf november wind 010 degrees 10 knots runway 14 cleared to land
+atco2_test477.wav,november mike also vectoring for a shorter approach turn left heading 240,november mike alfa vectoring for a short approach turn left heading 240
+atco2_test478.wav,affirm and fraction 576 oj descend to 4000 feet cleared rnp approach o runway 14 report inbound track is established,fraction 576 hotel descend to 4000 feet cleared arp approach runway 14 report airborne track established
+atco2_test479.wav,hotel correct mike i confirm cleared to la indra and re14,hotel quebec mike i confirm cleared to land runway 14
+atco2_test480.wav,oil taxi to sector blue when ready hotel juliett november,we will taxi to sector blue when ready hotel charlie november
+atco2_test481.wav,lufamber mike kaffa va kaita viā charlie and  how long do you stay,november mike alfa vacate via charlie and how long do you stay
+atco2_test482.wav,hotel bravo 3043 affirm climb maximum 5500 feet,roger bravo 3043 affirm climb maximum 5500 feet
+atco2_test483.wav,hotel golf echo do you want to stay at level 100 or are you able to descend,hotel golf echo do you want to stay at level 100 or are you able to descend
+atco2_test484.wav, hotel charlie papa bilo flight way 100,hotel charlie papa below flight level 100
+atco2_test485.wav, Rotētša hajai papa frequency change approved bispieta,hotel charlie papa frequency change approved bis spater
+atco2_test486.wav, Sarapu framiju 14 cunai 1021 to destination morning 30 departure flight of 100 and squawk 1000 swiss air force 042,startup approved runway 12 qnh 1021 to destination morning 30 departure flight level 100 and squawk 1000 swiss air force 042
+atco2_test487.wav, Suosair 4042 reipla correct,swiss air force 042 read back correct
+atco2_test488.wav, Hotel golf novembu on darmi 18324 stop,hotel golf november on downwind runway 32 to full stop
+atco2_test489.wav,hotelijanki xray vinsero 30 degrees 8 knots turnuja 32 klieto lai,hotel yankee xray wind 030 degrees 8 knots runway 32 cleared to land
+atco2_test490.wav, 182 jubilan hotelen 6 rei,runway 32 clear to land hotel xray
+atco2_test491.wav, Helios karlsā trafikvais tīr un 832 es avelibu lai tāda windis 100 degrees with 10 knots,heli oscar alfa traffic wise the runway 32 is available but the wind is 100 degrees with 10 knots
+atco2_test492.wav, hotel victair bravo roger behind traffic on final backtrack randvair 14 behind,hotel victor bravo roger behind traffic on final backtrack runway 14 behind
+atco2_test493.wav,delta papa delta roger identified the crossing is approved q and h 1021,delta papa delta roger identified the crossing is approved qnh 1021
+atco2_test494.wav,tower burn hotel bravo kilo golf november blue parking he  via far local alfamilie whiskey in formation november request taxi,tower bern hotel bravo kilo golf november blue parking vfr local as plan route whiskey information november request taxi
+atco2_test495.wav, kaut  sietu papugos turning base rame 32,hotel papa golf turning base runway 32
+atco2_test496.wav,hotel papa golf wind 040 degrees 8 knots rhein with 32 cleared to the end,hotel papa golf wind 040 degrees 8 knots runway 32 cleared to land
+atco2_test497.wav, 32 sentena torta papa golf,32 cleared to land hotel papa golf
+atco2_test498.wav, odu bravo lima vikt bravo bern taro ielo tagi sieto rolling point bravo randvair 14 qn 8 roms 027,hotel bravo lima victor bravo bern tower hello taxi to holding point bravo runway 14 qnh 1027
+atco2_test499.wav, hotel hotel bravo 7. speed,hotel hotel bravo 7000 feet
+atco2_test500.wav, bravo thank you,hotel hotel bravo thank you
+atco2_test501.wav, tango 318 rogeri you can already change frequency have a nice day,tango 318 roger you can already change frequency have a nice day
+atco2_test502.wav, Hoppa lukta fox drop whiskey 4500 ciet sriqas to lifrekenci,hotel oscar foxtrot whiskey 4500 feet request to leave frequency
+atco2_test503.wav,o there oscar fox roger frequency change approved,hotel oscar foxtrot frequency change approved
+atco2_test504.wav, oltad  echo li mi firm remain on mi frequency you are still within the tm,hotel echo lima affirm remain on my frequency you are still within the tma
+atco2_test505.wav, hotel bravo charlie juliett bern tarvok trafiks single engine just departed randvair 14 outbound route sierra opposite enter control senvair route sierra to join right downwind randvair 14 kines 1027,hotel bravo charlie juliett bern tower traffic single engined just departed runway 14 outbound route sierra opposite and to compose my route sierra to join right downwind runway 14 qnh 1027
+atco2_test506.wav,crossair kilo descend to 5 000 feet kth 101,oscar charlie kilo descend to 5000 feet qnh 1021
+atco2_test507.wav, Atsakai veks ierra descend to flight level 70 expect clearance for air work about 3 miles before osku,sun turk quebec sierra descend to flight level 70 expect clearance 4 airwork about 3 miles before oskup
+atco2_test508.wav, hotel viski alfa windis kameranvēj 14 klipa taga,hotel whiskey alfa wind is calm runway 14 cleared for takeoff
+atco2_test509.wav,hotel golf thank you appreciate the shortcut,hotel golf yankee we appreciate the shortcut
+atco2_test510.wav,hapagolf yankee roger report your program inbound,hotel golf yankee roger report your program in bern
+atco2_test511.wav, delta lima runga ir ok desta on delta,hotel delta lima runway vacated on delta
+atco2_test512.wav,roger taxi to blue parking,roger taxi to blue parking
+atco2_test513.wav, blue park sing called delta lima,blue parking hotel delta lima
+atco2_test514.wav,hot air golf oscar wind check 020 degrees 11 and now can you still accept 14,hotel golf oscar wind check 020 degrees 11 knots can you still accept 14
+atco2_test515.wav, Opera golfapār number 2 number 1 is the company on now left hand base and still to helicopter slow altitude over the city,hotel golf papa number 2 number 1 is the company on now left hand base and still 2 helicopters low altitude over the city
+atco2_test516.wav,looking up for helicopter and number 1 on the flight at the moment and on number 200 bye bye,looking up for helicopter and number 1 not in sight at the moment and a number 2 papa golf papa
+atco2_test517.wav, hotel golf sierra after echo on tsoi inna right hand base runway 32 as number 1 and expect left hand circuit,hotel golf sierra after echo 1 join right hand base runway 32 as number 1 and expect left hand circuit
+atco2_test518.wav,november mike alfa expect the irlis 14 with romeo soikling toran viitu,november mike alfa expect the ils 14 with romeo circling to runway 32
+atco2_test519.wav,hotel lima sierra during nighttime visual departure is not possible,hotel lima sierra during night time visual departure is not possible
+atco2_test520.wav,hotel romeo oscar roger crossing in direction echo at 4000 feet is approved q and h burn 1025,hotel romeo oscar roger crossing direction echo at 4000 feet is approved qnh bern 1025
+atco2_test521.wav,hater golf yankee descend to 4 000 feet cleared rnp approach 14 report established final course,papa golf yankee descend to 4000 feet cleared rnp approach 14 report established final course
+atco2_test522.wav,hotel delta charlie advised traffic is now clear of you and frequency change approved,hotel delta charlie advise traffic is now clear of you and frequency change approved
+atco2_test523.wav,regard quibback lima traffic single engine at your 10 o clock position 4 miles crossing from left to right at 5500 feet,riga quebec lima traffic single engine at your 10 o clock position 4 miles crossing from left to right at 5500 feet
+atco2_test524.wav,hotel cryo back inki crossing completed frequency change approved good bye,hotel quebec yankee crossing completed frequency change approved good bye
+atco2_test525.wav, hotel bravo julietu win 040 degrees 6 knots randvair 32 kliet to landa,hotel bravo juliett wind 040 degrees 6 knots runway 32 cleared to land
+atco2_test526.wav, Auto golf papa frequency change approved beidata tsau,hotel golf papa frequency change approved bis spater ciao
+atco2_test527.wav, Tagad varu vamiens braju toms oskaris,number 1 in sight hotel golf oscar
+atco2_test528.wav,golf oscar roger turn base behind you will do a go round or will stay short,golf oscar roger turn base behind he will do a go around over threshold
+atco2_test529.wav, hotel kilo delta to advaiss trafika es nav ovo ir viski 1,hotel kilo delta the advised traffic is now over whiskey 1
+atco2_test530.wav, hotel golf oscar trafika rega helikopta tjust pasto hotel echo joining the left hand helisirka direkšnu 14,hotel golf oscar traffic rega helicopter just passed hotel echo joining the left hand heli circuit direction 14
+atco2_test531.wav,hela cop turn via charge proceed normally how to go after,helicopter in sight shall we proceed normally hotel golf oscar
+atco2_test532.wav, ota golfos kār un mids darun vins make an orbit to lai striport kompletet,hotel golf oscar at mid downwind make an orbit to the left report completed
+atco2_test533.wav, hotel hotel oscaroķu sēg enda nav bravda glidu,hotel hotel oscar roger say again the number of the glider
+atco2_test534.wav, Hotel bravo zulu sierra november bernthau ar intervairu total viskik un h1018,hotel bravo zulu sierra november berne tower enter via route hotel whiskey qnh 1018
+atco2_test535.wav,hotel golf papa unknown vf air traffic helicopter at your 11 o clock position to malta say malta to the opposite direction,hotel golf papa unknown vfr traffic a helicopter at your 11 o clock position 2 miles same altitude opposite direction
+atco2_test536.wav, Long approach bravo,long approach hotel papa bravo
+atco2_test537.wav, talmājai nav meraim ar pin sequenz,hotel mike november line up in sequence
+atco2_test538.wav,oter bravo zulu oscar bravo bairn tau and the control is on via ruto whiskey and sero program again,hotel bravo zulu oscar bravo berne tower enter control zone via route whiskey and say your program again
+atco2_test539.wav,pertauli korrekt reikki alkuperle,hotel charlie quebec breaking off to the left
+atco2_test540.wav, hotel charlie kebair correction,hotel charlie quebec roger
+atco2_test541.wav, Hotel bravo juliet traffic husky s approaching 8 to 8 right now behind you and same direction,hotel bravo juliett traffic a husky is approaching gerzensee right now behind you and same direction
+atco2_test542.wav,o  also bravo sierra charlie papa venta o resede for startup or for taxi,hotel bravo sierra charlie papa berne tower is it for startup or for taxi
+atco2_test543.wav,good kiaa go ahead,zulu sierra go ahead
+atco2_test544.wav,are you aware that you are now inside the ctr of bern,are you aware that you are now inside the ctr of berne
+atco2_test545.wav, Tafikinsa iet iet vairoslu,we have the traffic in sight as well hotel hotel oscar
+atco2_test546.wav, alitalia oscar,hotel hotel oscar
+atco2_test547.wav, Continue change of route bye bye have an i s evening how to bergmite,frequency change approved bye bye have a nice evening hotel quebec mike
+atco2_test548.wav,hotel whiskey echo for the time being not avaiable i will call you back,hotel whiskey echo for the time being not available i will call you back
+atco2_test549.wav, number 184 thank you,number 1 in sight hotel whiskey echo
+atco2_test550.wav,hapag lloyd good thank you follow behind,hotel whiskey echo thank you follow behind
+atco2_test551.wav, autobraujo charlie golf india taxi to blue station adju fu station approved from blue parking,hotel bravo charlie golf india taxi to blue station to fuel station approved from blue parking
+atco2_test552.wav,alitalia whiskey negative it s fine if you want you can monitor the frequency but it s up to you if you stay outside of ctr all the time,heli tango whiskey negative it s fine if you want you can monitor the frequency but it s up to you if you stay outside of ctr all the time
+atco2_test553.wav, hotel bravo tarm braiko irei klidi prie,hotel bravo tango echo echo leaving ctr
+atco2_test554.wav,hotel echo echo frequency change approved good bye,hotel echo echo frequency change approved good bye
+atco2_test555.wav, 1 sekund,1 second
+atco2_test556.wav,short no worries it s fine for me but just for the next time then maybe not to get the confusion,sure no worries it is fine for me but just for the next time then maybe not get a confusion
+atco2_test557.wav,ok,ok
+atco2_test558.wav,the gov november tzimmy is not available anymore romeo 82 is now active do you want to proceed to sava instead,hotel golf november zimi is not available anymore romeo 82 is now active do you want to proceed to sava instead
+atco2_test559.wav, hoja braik braik airi delta kebek after hotel whiskey cross via berns iet dien hotel echo,roger break break heli delta quebec after hotel whiskey cross via berne city then hotel echo
+atco2_test560.wav, delta charlie kilo vict rindia taga relo genai 1027 starpa proof turnvai 32 cleared destination malta via the may box 3 bravo departure,delta charlie kilo victor india tower hello qnh 1027 startup approved runway 32 cleared destination malta via the mebox 3 bravo departure
+atco2_test561.wav, Zulu 141 transition priem initially 5000 feet squawk 2760,zulu 141 transition climb initially 5000 feet squawk 2760
+atco2_test562.wav,lufam irei mike kārfa kaita viac jolli and  how long do you stay,november mike alfa vacate via charlie and how long do you stay
+atco2_test563.wav, loperober lima ickli vrindījumi approach on way 2406 reportus stavis,hotel hotel lima echo we are at dme approach runway 24 circling 06 report established
+atco2_test564.wav,hotel india victor after whiskey 2 join right right base runway 10 number 1,hotel india victor after whiskey 2 join wide right base runway 10 number 1
+atco2_test565.wav,627x8 tower 1181 bye bye,turkish 27 xray tower 1181 bye bye
+atco2_test566.wav,europa 94 kilo mike contact ground 1 to 1.905 good bye,europa 94 kilo mike contact ground 121.905 good bye
+atco2_test567.wav, alitalija 571 maintain hello push back and start is approved,alitalia 571 apron hello push back and startup is approved
+atco2_test568.wav, bravo kilo taga lai mietau ir grītis taga taga kilo cross rana iet vi tā iet un kontakt 8 prin 121.75,bravo kilo hotel romeo tower grutzli say again taxiway kilo cross runway 28 and contact apron 121.755
+atco2_test569.wav," Kato bravo sieta delta foxa tavo loli, ne bra mēr 10",hotel bravo sierra delta foxtrot tower hello line up runway 10
+atco2_test570.wav, visi tiet 437 turni nav iesaxtli alfa echo 6 hold short rungi 16,vista jet 437 turn left via taxiway alfa echo 6 hold short runway 16
+atco2_test571.wav, swiss 2067 connect aprim 1.85,swiss 2067 contact apron 121.855
+atco2_test572.wav, 121.852 067,121.855 swiss 2067
+atco2_test573.wav, emirates 882040 trees 9 knots rung vii 10 kliet sateikuf,emirates 88 wind 0403 is 9 knots runway 10 cleared for takeoff
+atco2_test574.wav,golf take up on 0 emirates 88,cleared for takeoff 10 emirates 88
+atco2_test575.wav,swiss air berth 61 wind 030 degrees 497 is 32 to take off,swiss ambulance 61 wind 030 degrees 4 knots runway 32 cleared takeoff
+atco2_test576.wav,532 kliett tag course swiss air 1161,hi 32 cleared takeoff swiss ambulance 61
+atco2_test577.wav, alitalija 571 0703 s 1 2 no tronvēj 10 klips tag,alitalia 571070312 knots runway 10 cleared to takeoff
+atco2_test578.wav, del india victor whiskey 3500 feet,hotel india victor whiskey 3500 feet
+atco2_test579.wav, hotel india victor tanka,hotel india victor danke
+atco2_test580.wav,klm 9442 on 827 holdu šorda flanviju 16,klm 94 foxtrot on echo 7 hold short of runway 16
+atco2_test581.wav,swiss 1076 taxi via link 3 echo 7 hold shorter france way 16,swiss 1076 taxi via link 3 echo 7 hold short of runway 16
+atco2_test582.wav,fraction 250 foxtrot descend flight level 90,fraction 250 foxtrot descend flight level 90
+atco2_test583.wav, Tagadam ordi visu vam 97 hevi rampi 14 davis,tower guten morgen swiss 197 heavy rnp 14 established
+atco2_test584.wav, swiss 197 taga gudam reger wind 080 degrees 12 knots kusting 190 randvēj 14 kwadro ir antrāk keit hotel 2,swiss 197 tower guten morgen wind 080 degrees 12 knots gusting 19 runway 14 cleared to land vacate hotel 2
+atco2_test585.wav,biker 630 taxi via november echo 7 hold short of runway 16,i guess 630 taxi via november echo 7 hold short of runway 16
+atco2_test586.wav, hotel bravo charlie hotel xray east in zizi hot position call you back,hotel bravo charlie hotel xray grutzli hold position call you back
+atco2_test587.wav,roger india direct contact 821.755 tschuss,delta india victor contact apron 121.755 tschuss
+atco2_test588.wav,airport 346 contact april 1 to 1.855,singapore 346 contact apron 121.855
+atco2_test589.wav, pinur 5 delta lima recēt at oni krasion wind 140 degrees 5 knots rambi 14 klieta lant,finn air 5 delta lima vacated own discretion wind 140 degrees 5 knots runway 14 cleared to land
+atco2_test590.wav,trux 289 the wind 32 degrees 3 knots rambi 14 you are clear to land,swiss 289 the wind 320 degrees 3 knots runway 14 you are cleared to land
+atco2_test591.wav, Prinsaibur Ļoti bravo papa otku  echo,zurich tower hotel bravo papa oscar echo
+atco2_test592.wav," Ota bravo papa oscaraju ko zurichu toweru, go ahead",hotel bravo papa oscar echo zurich tower go ahead
+atco2_test593.wav,top 420 contact ground 121.90 5 good bye,lot 420 contact ground 121.905 good bye
+atco2_test594.wav, 36 fox dot lima iesandiello tagi sietand raisp vair inda fox dot and mike to stand bravo 32,turkish 6 foxtrot lima is in hello taxi second right via inner foxtrot and mike to stand bravo 32
+atco2_test595.wav, Ground air lower wear mark 352 is that 846 boljari,ground hello royal air maroc 352 stand echo 46 fully ready
+atco2_test596.wav,good leaver hello again taxi way 2 yet cross runway to it contact apron 1 to 1.755 good day,foxtrot lima hello again taxiway juliett cross runway 28 contact apron 121.755 good day
+atco2_test597.wav, Es haiti un viļiet ko franvēr 28 apretu sengu 12175 turni iet 6 pro sredzena viļa,taxiway juliett cross runway 28 after crossing 121755 turkish 6 foxtrot lima
+atco2_test598.wav,thank you,thank you
+atco2_test599.wav,turkish 6329 wind 070 degrees 13 gusting 20 knots runway 1,200 turkish 6329 wind 070 degrees 13 gusting 20 knots runway 1
+atco2_test600.wav,oscar charlie kilo contact tower 118 to 411 good bye,oscar charlie kilo contact tower 118.1 good bye
+atco2_test601.wav,hotel yankee hotel vint 0 4 c degrees 11 ots runway 100 klm,hotel yankee hotel wind 040 degrees 11 knots runway 10 cleared to land
+atco2_test602.wav, tādu viņi 103 ieta lēm otri ietgi hovdis,runway 10 cleared to land hotel yankee hotel
+atco2_test603.wav,hotel whiskey whiskey affirm but kate next right into tax way hotel 2 and contact ebren 1 to 1.85,hotel whiskey whiskey affirm vacate next right into taxi way hotel 2 and contact apron 121.855
+atco2_test604.wav, visajad 492 ofna lai indikvēr kated on discretion,vista jet 492 no landing vacated own discretion
+atco2_test605.wav,cross good charlie kilo contact departure 125.95 bye bye,oscar charlie kilo contact departure 125.955 good bye
+atco2_test606.wav, 2595 es ir par par 8 kilo,125955 oscar papa charlie kilo
+atco2_test607.wav, aeronstrum 80 kevēk ienkķi kontakti aprim 1.855,air nostrum 80 quebec yankee contact apron 121.855
+atco2_test608.wav,tag oberair 1553 roger are you able for to be depart from intersection echo,dagobert 1553 roger are you able to depart from intersection echo
+atco2_test609.wav, hotel bravo papa hotel delta unknown via for traffic without alt indication 12 o clock 2 miles crossing left to right,hotel bravo papa hotel delta unknown vfr traffic without altitude indications 12 o clock 2 miles crossing left to right
+atco2_test610.wav, and austria merair ok ok k  k  k tower hallo in 070 degrees wider and also on the way 14 to the left,air nostrum 80 quebec yankee tower hello wind 070 degrees right 09 runway 14 cleared to land
+atco2_test611.wav, Swiss air force 521 taga ir viac iet iet ron vair 34 and taxi left via then lima holling point romei 10,swiss air force 521 tower grutzi and runway 34 and taxi left via lima holding point runway 10
+atco2_test612.wav, 33 viski kebi xtrvair echo and echo 7 ho soto planvairi 16,turkish 3 whiskey quebec taxi via echo and echo 7 hold short of runway 16
+atco2_test613.wav,affirm corna charlie go ahead,echo 1 charlie go ahead
+atco2_test614.wav, salgauja un charlie ietu madri  turn viz 32 verbi 3 november climb 5000 feet squawk 3002,echo 1 charlie cleared to madrid runway 32 ready 3 november climb 5000 feet squawk 3002
+atco2_test615.wav, haudri uniform uniform contact depart change ir ir tag,hotel uniform uniform contact departure and schone tag
+atco2_test616.wav, brajoj tildi uniform uniform šo ne tag,departure hotel uniform uniform schone tag
+atco2_test617.wav, hota lauta līgstri ivikēt atbūru and to the right and contact aprim 1 to 1.75 sorry,hotel hotel xray vacacated at 0 and to the right and contact apron 121.755 bye bye
+atco2_test618.wav,hot air lima hotel wind 010 degrees 10 off runway 10 cleared to the end,hotel lima hotel wind 010 degrees 10 knots runway 10 cleared to land
+atco2_test619.wav, Sun Express 3 wind 16 degrees 4 knots rome 28 klubu taga,sun express 3 wind 160 degrees 4 knots runway 28 cleared for takeoff
+atco2_test620.wav,check canada 7216 when did you see the life,air canada 7216 when did you see the lights
+atco2_test621.wav,hotta sierra kilo wind 030 degrees 11 otsera mer turkli tag,hotel sierra kilo wind 030 degrees 11 knots runway 2 cleared takeoff
+atco2_test622.wav, Andro viski zulu papa tower hallo entri xtralis on route echo clearance limit echo 2,hello bravo whiskey zulu papa tower hello into control zone route echo clearance limit echo 2
+atco2_test623.wav,swiss 218 romeo can we have a case via hotel 2,swiss 218 romeo can we vacate via hotel 2
+atco2_test624.wav,cross 218 romeo affirm the gate is convenient,swiss 218 romeo affirm vacated as convenient
+atco2_test625.wav,swiss 332 behind challenger line up to it behind,swiss 332 behind challenger line up to 8 behind
+atco2_test626.wav, hello tower lagen 1222 good afternoon isabish alis 14,zurich tower legend 1202 good afternoon established ils 14
+atco2_test627.wav,rogerin 1202 tau ir alu vien 168 degrees forno trama 14 klats ala andra kaita daun desk reisschen,legend 1202 tower hello wind 160 degrees 4 knots runway 14 cleared to land vacate at own discretion
+atco2_test628.wav,tun                                                                                                                                                                                                                                                                                                                                                                                                                                                          ,cleared to land runway 14 and vacate at own discretion legend 1202
+atco2_test629.wav, Holti bravo charlie lima hotel via echo line up and way to rung vei 10,hotel bravo charlie lima hotel via echo line up and wait runway 10
+atco2_test630.wav," Puiktau, o, denmēr jau tikr 1 o soka stoka",zurich tower hello then arrow jet 601 on foxtrot
+atco2_test631.wav, taga 601 traur un foxtro cross runway 10 connect aprun 1 to 1.75 adie,arrow jet 601 tower on foxtrot cross runway 10 contact apron 121.755 sorry
+atco2_test632.wav, ops os os sannie 101 to var stena 5,on foxtrot cross runway 1012175
+atco2_test633.wav, alitalia 575 heading 3,alitalia 572
+atco2_test634.wav,jambran 802 climb to flight level 150,jump run 802 climb to flight level 150
+atco2_test635.wav,well there is a marshal on its way and in zurich it is handled like this all the time but it s any second with you,well there s marchall on it s way and in zurich it is handled like this all the time but it s any second with you
+atco2_test636.wav, Traksena 103 mike wind 140 degrees fornā tromba 8 kluftaikas,fraction 103 mike wind 140 degrees 4 knots runway 28 cleared for takeoff
+atco2_test637.wav,hotel bravo victor roger after whiskey 1 proceed direct sierra,hotel bravo victor roger after whiskey 1 proceed direct sierra
+atco2_test638.wav, will come,wilco hotel bravo victor
+atco2_test639.wav,transwannit line up and wait runway 10,swiss 18 line up and wait runway 10
+atco2_test640.wav," Anapens, wait for me 10612",line up and wait runway 10 swiss 18
+atco2_test641.wav,hattag alitalia 1202 hello again on juliett approaching runway 28,legend 1202 hello again on juliett approaching runway 28
+atco2_test642.wav,roger and 1202 tower alo again cross runway 28 on juliett connect aprim 1 to 1.755 good bye,legend 1202 tower hello again cross runway 281 juliett connect apron 121.755 good bye
+atco2_test643.wav,winshack for anew 1434 degrees to not,wind check for runway 1434 degrees 2 knots
+atco2_test644.wav,fraction 498 alfa rosa vision there will be crossing traffic i ll call you back,fraction 498 alfa hold position there will be crossing traffic i call you back
+atco2_test645.wav,right right,ready to touchdown
+atco2_test646.wav, 47 on giliet,( er) 47 on juliett
+atco2_test647.wav, Santurk 947 tauvi tagi sviķuļiet cross runway 28 contact aprin 1 to 1.755 bye,sun turk 947 tower taxiway juliett cross runway 28 contact apron 121.755 bye
+atco2_test648.wav,roger roger 3520 hotel good afternoon line up runway 10 report ready,royal air maroc 352 zurich tower good afternoon line up runway 10 report ready
+atco2_test649.wav, rogeri mēs tev iekko rogeri alfa iekko rogeri iekko rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri rogeri ,roger then taxi via all alfa and echo on taxiway echo hold short runway 10
+atco2_test650.wav, United 135 win 0 30 degrees 10 knots rambai 28 kur tago,united 135 wind 030 degrees 10 knots runway 28 cleared takeoff
+atco2_test651.wav,lufst du so 4 kilo die fahrt zur brian,swiss 204 kilo departure bye
+atco2_test652.wav,roger bye bye 6204 good bye,departure good bye swiss 204 kilo
+atco2_test653.wav,united 135 say hello push back and start of is approved,united 135 apron hello push back and startup is approved
+atco2_test654.wav, Tvies 92 identified climb to flight level 120 and report posten altitude,swiss 92 identified climb to flight level 120 and report passing altitude
+atco2_test655.wav, hallo ar nohram 87 liski bravo direktau lina brava 110,hello air nostrum 87 whiskey bravo zurich tower line up runway 10
+atco2_test656.wav,sing for t46 contactation 1 to 1.755 bye bye,singapore 346 contact apron 121.755 bye bye
+atco2_test657.wav, Buskadinga indietango hoteltau ar ontaxi vei kilo cross runway 28 connect aprim 1 to 1.755 bye bye,oscar echo india tango hotel tower on taxiway kilo cross runway 28 contact apron 121.755 bye bye
+atco2_test658.wav, Foxen sierra foxen 584 papa taga hello again actually ho position shortly,foxtrot sierra foxtrot 584 papa tower hello again actually hold position shortly
+atco2_test659.wav,albi 77 taxi on zulu and bravo hold short runway 16,copy 77 taxi on zulu and bravo hold short runway 16
+atco2_test660.wav,hotel bravo yankee truid golf good afternoon behind the lining of pc 24 line up runway 28 behind,hotel bravo yankee juliett golf good afternoon behind you lining up pg 24 line up runway 28 behind
+atco2_test661.wav,airair 4652 hello line up runway 10,hotel 465 tower hello line up runway 10
+atco2_test662.wav, delta hotel golf vien 050 degrees 12 knots kasting 17 runga i14 kvalitair,delta hotel golf wind 050 degrees 12 knots gusting 17 runway 14 cleared to land
+atco2_test663.wav, Diedilēm ar viņu vokta ieta ota koiz,cleared to land runway 14 delta hotel golf
+atco2_test664.wav,united 135 tower hello behind lufthansa line up runway 28 behind,united 135 tower hello behind lufthansa line up runway 28 behind
+atco2_test665.wav,united 135 behind contact line of the way,united 135 behind lufthansa line up runway
+atco2_test666.wav,november 4 charlie golf contact paris 1 and 8 that is the new avanjet at us,november 4 charlie golf contact tower 118.105
+atco2_test667.wav,tango kilo alfa wind 040 0 turn air 10 please take off,tango kilo alfa wind 040 degrees 10 knots on the 10 cleared for takeoff
+atco2_test668.wav, hotelos kariāko the second traffic is now just overhead whiskey 1 opposite,hotel oscar echo the second traffic is now to overhead whiskey 1 opposite
+atco2_test669.wav," Tagad halloween, portu ar mindenu 6 viņi ir braju 28 kilo",tower hello again air portugal 926 approaching right 28 kilo
+atco2_test670.wav,air portugal 926 lai kilo cross from midu ir tankanta xt aprn 121.75,air portugal 926 at kilo cross runway 28 then contact the apron 121.755
+atco2_test671.wav, sierra papa foxta bravo alfa tarva hallo holdi positiona krui veik,sierra papa foxtrot bravo alfa tower hello hold position i ll call you back
+atco2_test672.wav,delta tango tango taxi via alfa echo 6 hold short of randwui 16,delta tango tango taxi via alfa echo 6 hold short of runway 16
+atco2_test673.wav,hotel hotel charlie you are at the city air frequency change approved bye bye,hotel delta charlie your re at the ctr frequency change approved bye bye
+atco2_test674.wav, rega 1 inklāju sestilu with mi you may leave the frequency,rega 1 in case you still with me you may leave the frequency
+atco2_test675.wav,hotel bravo kilo hotel review 8 been hallo qn 82024 taxi to roger position papa 1,hotel bravo kilo hotel romeo apron hello qnh 1024 taxi to holding position papa 1
+atco2_test676.wav,and report ready for departure once you are clear of the inbound hotel delta lima,and report ready for departure once your re clear after inbound hotel delta lima
+atco2_test677.wav, parairos 278 juliet mike 020 degrees 13,air nostrum 78 juliett mike 020 degrees 13
+atco2_test678.wav,katari 02 my contact way juliett cross runway 10 contact april 1 to 1.755 good bye,qatari 02 mike on taxiway juliett cross runway 10 contact apron 121.755 good bye
+atco2_test679.wav,airport sku 931 charlie kontakti departs good bye,air portugal 931 charlie contact departure good bye
+atco2_test680.wav, bye bye,departure bye air portugal 931 charlie thank you
+atco2_test681.wav,german air canada 7216 heavy with you were established 6 miles 14,tower guten morgen air canada 7216 heavy with you we re established 6 miles 14
+atco2_test682.wav,air canada 7216 tag morning wind 3530 degrees 3 knots runway 14 cleared to land,air canada 7216 tower good morning wind 350 degrees 3 knots runway 14 cleared to land
+atco2_test683.wav, taga berg 155 feet to par jau monta xtra veikko holt šot randai 10,dagobert 1553 to confirm on taxiway echo hold short runway 10
+atco2_test684.wav, Tango charlie november kilo alfa aprin hello turn left vair alfa nienki 210 foxtrot 73,tango charlie november kilo alfa apron hello turn left via alfa yankee 210 foxtrot 73
+atco2_test685.wav,roger roger 352 contact zurich apron 121.855 good bye,royal air maroc 352 contact apron 121.855 good bye
+atco2_test686.wav, 12.855 vispairi merci 525,121.855 good bye royal air maroc 352
+atco2_test687.wav,hotel of lima contact april 1 to 1.55,hotel delta lima contact apron 121.855
+atco2_test688.wav,aira torm 788 mike zurich hallo wind 180 degrees forno torm vivenu fulkl adaland,air nostrum 78 juliett mike direct hello wind 180 degrees 4 knots runway 14 cleared to land
+atco2_test689.wav,kl tollaan 1478 julen bye,cleared to land 14 air nostrum 78 juliett mike
+atco2_test690.wav,hallu point runway 31 via foxtrot and cross the runway 04 your chance 31 correction 13 due i think,holding point runway 31 via foxtrot and cross runway 04 euro trans 21 correction 13 juliett thank you
+atco2_test691.wav, 13 juliet correction position 2 foxtrot,13 juliett correction position 2 foxtrot
+atco2_test692.wav, 2 foxposes ies irogeru 43 juliet,2 foxtrot euro trans 13 juliett
+atco2_test693.wav, Toppiet 201 and via foxtrot line up 31 reporta reiting,elite jet 201 and via foxtrot line up 31 report ready
+atco2_test694.wav,air trans 1382 it request push and start,euro trans 13 juliett request push and start
+atco2_test695.wav, Good evening air trans 13 juliett starp and push back approved position to foxtrot squawk 4425,good evening euro trans 13 juliett startup and push back approved position to foxtrot squawk 4425
+atco2_test696.wav, squawk 425 and stasi mprusis pre   approved position fo  to fo ,squawk 4425 and start and push pre approved position fox 2 foxtrot
+atco2_test697.wav, saha itavertam treds 401 dobra ieti aprim charlie infranos du hengu redu for start up kliena destinationu os terau limau burku ienķu 1017,stefanik tower top jet 401 dobry den apron charlie in front of the hangar ready for startup cleared destination ostrava lima on board qnh 1017
+atco2_test698.wav, panikta oska vaira stelli indie alfa final hrana 13 oska vaira stelli indie alfa,stefanik tower oscar mike charlie india alfa final runway 13 oscar mike charlie india alfa
+atco2_test699.wav, oscaramai iekcijā rindija alfa rannuvi 13 klietu lent wind 130 degrees 8 knots,oscar mike charlie india alfa runway 13 cleared to land wind 130 degrees 8 knots
+atco2_test700.wav, saffa niikt taros kamairi ireli indie alfa quest,stefanik tower oscar mike charlie india alfa request
+atco2_test701.wav, iessu viet,yes go ahead
+atco2_test702.wav, tras603 taxi to holding par anrui 13 via delta foxtrot,tel 603 taxi to holding point runway 13 via delta foxtrot
+atco2_test703.wav, oscar kilo alfa golf limas kok 46746,oscar kilo alfa golf lima squad 46746
+atco2_test704.wav, bye bye,6746
+atco2_test705.wav,and then 1 alfa would be more suitable your transfer what do you do thank you,november 1 alfa would be more affordable euro trans 13 juliett thank you
+atco2_test706.wav, tā natriāli sas  fusos ko mūjau tavos šikrā  sikrīs,time air 397 foxtrot call me on tower frequency please
+atco2_test707.wav, bye,roger
+atco2_test708.wav, sri tikt aropa iekamai boppa lūdnieta tras 613 stabližai ales 31,stefanik tower pekne popoludnie tatra 613 establish ils 31
+atco2_test709.wav, Tatra 613 doberu popoludne stefa nektavra rano 31 cleared to land wind 300 degrees 190 noc maximum 33 noc,tatra 613 dobre popoludnie stefanik tower runway 31 cleared to land wind 300 degrees 19 knots maximum 33 knots
+atco2_test710.wav, runway 31 cleared to entatra 613,runway 31 clear to land tatra 613
+atco2_test711.wav, and after landing the grid via delta,and after landing vacate via delta
+atco2_test712.wav,lufthu endinga airi lota 613,after landing via delta 613
+atco2_test713.wav, delta bravo bravo line up rana 81 reporti reddīt par departure,delta bravo bravo line up runway 31 report ready for departure
+atco2_test714.wav,delta bravo bravo lining up runway 31 we are ready for departure,delta bravo bravo lining up runway 31 we are ready for departure
+atco2_test715.wav,roger,roger
+atco2_test716.wav, Starvek pushtu regeri provu position 2 fox rod squawk 4407 newtrans 13 juliet,startup push back approved position to foxtrot squawk 4407 euro trans 13 juliett
+atco2_test717.wav, runway 31 cleared to lande vinko pieto vieta 704,runway 31 cleared to land we copied top jet 704
+atco2_test718.wav, ietis 5335 projwing fox 16 redzi forti parķu,euro trans 5335 approaching fox 16 ready for departure
+atco2_test719.wav, Bietens 13 julieta stada ir būt tur on diskretion,euro trans 13 juliett startup approved own discretion
+atco2_test720.wav, Tad apru un viskaišan ietrādu 13 juliet,startup own discretion euro trans 13 juliett
+atco2_test721.wav, Object 402 vair delta foxtrot 1033,top jet 402 via delta foxtrot 133
+atco2_test722.wav, delta foxtrot 7340,delta foxtrot 133 top jet 402
+atco2_test723.wav, stefanikt tagad ietrind 1411 ala s 31,stefanik tower good day austrian 1411 ils 31
+atco2_test724.wav, 0 trans 13 juliet taxi 2 olimpena randvī 040 via alfa delta,euro trans 13 juliett taxi to holding point runway 04 via alfa delta
+atco2_test725.wav,affair delta ruling point 040 you are transformed rejuven,alfa delta holding point 04 euro trans 13 juliett
+atco2_test726.wav, stafelikt sāk ta bridairna hamburg 692 lima stablie stairis rambēj 316.5 dienu,stefanik tower dobry den burg 692 lima stop established runway 316 point 5 dme
+atco2_test727.wav, air hamburg 692 lima stefanīgi tagad no brieden,air hamburg 692 lima stefanik tower dobry den
+atco2_test728.wav, wind 220 degrees 5 knots variable between 170 and 230 degrees maximum 10 minimum 3 rana 81 klietu lent,wind 220 degrees 5 knots variable between 170 and 230 degrees maximum 10 minimum 3 runway 31 cleared to land
+atco2_test729.wav, oscar mike iš mike o teksi bet viņi hankas via foxtrot,oscar mike echo lima echo taxi between anchors via foxtrot
+atco2_test730.wav, Tags nduris vair fox tautos kai airi lipa airi,taxi between anchors via foxtrot oscar mike echo lima echo
+atco2_test731.wav, taxi hall dipto 31 via foxtrot klausa rambie 040 lai governmenties 004,taxi holding point 31 via foxtrot cross runway 04 slovak government 004
+atco2_test732.wav, Dark blue 54 romeo stjupaini tagad to predano rannu 81 cleared to lenti 0 80 degrees 6 knots,dark blue 54 romeo stefanik tower dobre rano runway 31 cleared to land wind 080 degrees 6 knots
+atco2_test733.wav, 831 cleared to radar blue 5 o r mal,right 31 cleared to land dark blue 54 romeo
+atco2_test734.wav, oscar golf echo continue to finala randvair 22 trafikies just now b for shortly before landing,oscar golf echo continue to final runway 22 traffic is just now before shortly before landing
+atco2_test735.wav, Diersaun 126 vair delta online numberan v0 for,b air 712 taxi via delta line up runway 04
+atco2_test736.wav, mēr delta laika 04 prie 712,via delta line up 04 b air 712
+atco2_test737.wav, sieta viņa tagad bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo bravo,stefanik tower dobry den elite jet 801 crossing 2 right base runway 13
+atco2_test738.wav, are you looking out for a direct link call for mikey will you malima,looking out for a traffic oscar mike kilo lima lima
+atco2_test739.wav, roger ja ja strafīgi zoni or 11 o klok 1 mile,roger just traffic is on your 11 o clock 1 mile
+atco2_test740.wav,tuniet 1018 aina au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au au ,qnh 1018 after keep the proceeding to victor
+atco2_test741.wav, klieto lēn airanvēj 31 and please say again the wind,cleared to land runway 31 and please say again the wind
+atco2_test742.wav, 280 degreesu 11 knots maksimum 18 minimum 6 knots,280 degrees 11 knots maximum 18 minimum 6 knots
+atco2_test743.wav, parisens tādu prudu tam prasidiem 3 foxtroti naskuok 440 tur ir transformi ir juliet,push and start approved on position 3 foxtrot on squawk 4402 euro trans 13 juliett
+atco2_test744.wav, oscargo ferogera descend to trafikolti tuit 1500 viis,oscar golf echo roger descend to traffic altitude 1500 feet
+atco2_test745.wav, lai desendik 1 500 feet auzik jūta skamēr ir galsa ko iekko,start descending 1500 feet altitude oscar mike alfa golf echo
+atco2_test746.wav, target 704 taxi via delta to 8 un charlie,elite jet 704 taxi via delta to apron charlie
+atco2_test747.wav, 4kair 4745 frequency change ap route lai pautr tieta pekna lēd,slovak airforce 7445 frequency change approved dopocutia pekny let
+atco2_test748.wav," Dobri, pulništ es panikt avro bm 941 ailis 31",dobre popoludnie stefanik tower b air 941 ils 31
+atco2_test749.wav, biet 94 masz chefani iktāvru peki ap olunie vint 310 degrees 8 knots vairia buviet vins 270 and 330 degrees rannu ir 31 klietu ant,b air 941 stefanik tower pekne popoludnie wind 310 degrees 8 knots variable between 270 and 330 degrees runway 31 cleared to land
+atco2_test750.wav, Rundran 31 klidu olenbien 941,runway 31 cleared to land b air 941
+atco2_test751.wav,2036 thanks for your help 1 3 juliett starving push and start call you for taxi,2036 thanks for your help 13 juliett start and push and start call you for taxi
+atco2_test752.wav, koj ieskuok 4404,roger squawk 4404
+atco2_test753.wav,alright so then yeah talk to you in 1 kilo would be much better your transfer 13jul  thank you,right so then yeah tovka 1 kilo would be much better euro trans 13 juliett thank you
+atco2_test754.wav, 0 trans 13 juliet roger sov rikli ida vair tofka 1 kilo departs off runway 31 indiesa klm 5000 feet,euro trans 13 juliett roger so recleared via tovka 1 kilo departure of runway 31 initial climb 5000 feet
+atco2_test755.wav,retain the topscam 1 kilo departure don t maintain 1 and you should climb 5 thousand feet and request push a start you turn 1 to dilute,recleared at tovka 1 kilo departure runway 3 initial climb 5000 feet and request push and start euro trans 13 juliett
+atco2_test756.wav, 0 trans 13 juliett pusiem stāli provst fasing foxtrot and squawk 4403,euro trans 13 juliett push and start approved facing foxtrot and squawk 4403
+atco2_test757.wav, Paldi irei puzītions tāda aproved position 5 foxtrot ms guk 4423 par visu 6276,roger position start approved position 5 foxtrot and squawk 4423 for wizz air 6276
+atco2_test758.wav, stiffa iktavura ahoj top 202 establish final trek rmp31,stefanik tower ahoj top jet 202 established final track rnp 31
+atco2_test759.wav, topjet 202 stefanīgtau varu to bri zene wind 310 degrees 21 knots rannu vairi 31 kliet to lent,top jet 202 stefanik tower dobry den wind 310 degrees 21 knots runway 31 clear to land
+atco2_test760.wav, aran vai 3 1 kliptu lentu ap tietu 0 2,runway 31 cleared to land top jet 202
+atco2_test761.wav, stefaniks tau ir oscar mike echo echo altitude 6000 feet and descending to 2000 feet,stefanik tower oscar mike echo lima echo altitude 6000 feet and descending to 2000 feet
+atco2_test762.wav, vairu bieti bauds victor in 40 sikrs and request an approach information call back qn h1020,we would be at about victor in 40 seconds and requesting approach information information quebec qnh 1020
+atco2_test763.wav, lambur 498 ir limātiks via delta line up 040 reporta redzi,november 49 xray lima taxi via delta line up 04 report ready
+atco2_test764.wav, 4 double line up 04 kovi ir meda iedi novemberu for mien iegli,via delta line up 04 call you when ready november 49 xray lima
+atco2_test765.wav,hag  shtief reingit abru  sva  go reims 004 do beretano,stefanik tower slovak government 004 dobre rano
+atco2_test766.wav, slova government 004 sifairi inkta par thebreda ana,slovak government 004 stefanik tower dobre rano
+atco2_test767.wav, Aura stain information lima 1007 mēradi for stara pkl ierens estimation ko ši tā,our stand information lima 1007 ready for startup clearance destination kosice
+atco2_test768.wav, slova government 004 information mike time 578 cleared to korsi tse fram randvair 13 viens travani enki debattura indži klimb bulti tūt 5000 feet start ava prov skok 6746,slovak government 004 information mike time 57 qnh 1008 cleared to kosice from runway 13 via nitra 1 yankee departure initially climb altitude 5000 feet startup approved squawk 6746
+atco2_test769.wav,cleared to land ryaway 16 right turn to 7301,cleared to land runway 16 right china southern 301
+atco2_test770.wav,signalita good evening Singapore 7298 is 16 right,sydney tower good evening singapore 7298 is 16 right
+atco2_test771.wav, taginai reiksi seuraava,tower good day rex 6464
+atco2_test772.wav, correct 6464 sinne jää kuraasen,rex 6464 sydney tower good afternoon
+atco2_test773.wav,sitting air good morning jessar 746 established,sydney tower good morning jetstar 746 established
+atco2_test774.wav,tun contact 46 the tower,jetstar 746 sydney tower
+atco2_test775.wav,saudia nato 2812 is just outside gala for what s right,tower united 2012 is just outside gala for 16 right
+atco2_test776.wav,continue approach for canning 835 and zurich we'd like i think with the earliest we can make is probably going to be golf or golf 1 per canning 835,continue approach for connie 835 answer with mike i think we ll be able if we can make it it s probably gonna be golf or golf 1 for connie 835
+atco2_test777.wav,kl 35 copy,connie 835 copy
+atco2_test778.wav,and it s far as orange of delay waiting on a release from the back,twin jet 50 on a short delay waiting on our release from the back
+atco2_test779.wav,signy tower evening contact 7701 now with the international,sydney tower evening qantas 7701 now at 3 international
+atco2_test780.wav,tarok county 835 on the alas 168,tower connie 835 on the ils 163
+atco2_test781.wav, Tur diena iekvada snoti par ietri ievī,turning air cross 923 heavy
+atco2_test782.wav,tun twi s 923 have you seen nata good day,contract 923 heavy sydney tower good day
+atco2_test783.wav,165 clear landjake 7434,16 right cleared to land jet ex 7434
+atco2_test784.wav,city tag good day kirlink 402,sydney tower good day qlink 402
+atco2_test785.wav,killing 402 cd tag good morning,qlink 402 sydney tower good morning
+atco2_test786.wav, kajā gadai jau stāv 760,tower good day jetstar 763
+atco2_test787.wav,jetset 733 senita,jetstar 763 sydney to
+atco2_test788.wav,alitalia star 763,tower jetstar 763
+atco2_test789.wav,jetta 763 set it down,jetstar 763 sydney ciao
+atco2_test790.wav, Viņa tagad eviņi teta 61 par mārme trichu lai,sydney tower good evening jetstar 671 final runway 34 left
+atco2_test791.wav,belisang and 184.475 climbing flight level 280,hello sydney good evening jetstar 475 climbing flight level 280
+atco2_test792.wav,hapag ll good morning singapore 727 for hiby ios runway 165,tower good morning singapore 7274 heavy ils 13016 right
+atco2_test793.wav,saudita direct 64 72,sydney tower rex 6472
+atco2_test794.wav, REC 64 set mietu iesanītā,rex 6472 sydney tower
+atco2_test795.wav, rama 3 pro left cleared to land and course test 146,runway 34 left cleared to land quantas 146
+atco2_test796.wav,and way 165 create a line just after 508,runway 16 right cleared to land jetstar 508
+atco2_test797.wav, 3rd lam rung vair 165 kijai 15 0 4,cleared to land runway 165 qjet 1504
+atco2_test798.wav,roger continue approach expand the after ending with kickoff that s the 251,roger continue approach expect to land vacate golf dynasty 051
+atco2_test799.wav, tagadairi nizio 121 set viņi sāli 340,tower good day new zealand 2317 charlie 34 left
+atco2_test800.wav,sidney tarot good evening dialysis 055 set via rhein way 0 s  o rhein way 34 left,sydney tower good evening dynasty 0557 miles runway 0 s runway 34 left
+atco2_test801.wav,airway 165 cleared to land at 37,runway 16 right cleared to land pass 767
+atco2_test802.wav,that way 3 4 left to the left corner 642,runway 34 left cleared to land runway 643
+atco2_test803.wav,try to clear to land runway 34 left exit on high speed on the right,roger cleared to land runway 34 left exit on the high speed on right
+atco2_test804.wav,,korean air 121 wind 240 degrees 5 knots runway 16 right cleared to land
+atco2_test805.wav,lufthansa 16 right cleared to rain continue 121 heavy,runway 16 right cleared to land korean air 121 heavy
+atco2_test806.wav,taromarket 73 heavy 10 miles prevoi la,tower american 73 heavy 10 miles 3 voila
+atco2_test807.wav,merairland 73 heavy city tag good morning,hello american 73 heavy sydney tower good morning
+atco2_test808.wav, Saru gļasena merspina 242 ielis t4 lai steli malta,tower good afternoon emirates 9242 cleared ils 34 left 7 miles final
+atco2_test809.wav, Kairas 222 nav iest viņi taga sengs indien priss,emirates 9242 heavy sydney tower good afternoon continue approach
+atco2_test810.wav,16 right clear lankku 1202,16 right cleared to land qantas 7702
+atco2_test811.wav,aeroen 168 kerta randoni 489,runway 16 right cleared to land holding point 79
+atco2_test812.wav, CD TRX 6175,sydney tower rex 6175
+atco2_test813.wav, Prex 6175 Sydney telkura apenu,rex 6175 sydney tower good afternoon
+atco2_test814.wav, Sleitlēn romei 16 right corner 7221,cleared to land runway 16 right call us 7221
+atco2_test815.wav,airway 165 cleared rainbow tx33,runway 16 right cleared to land velocity 803
+atco2_test816.wav, 275 viet fornāt sikrā sikrā,275 and 4 knots qantas 446
+atco2_test817.wav,tarom good afternoon chinese and 30 i established ls 16 right,tower good afternoon china southern 301 established ils 16 right
+atco2_test818.wav,7301 heavy to getcha good afternoon,china southern 301 heavy sydney tower good afternoon
+atco2_test819.wav,tag good evening kachari 6 tango papa i ll see you for less,tower good evening qatari 6 tango papa ils 34 left
+atco2_test820.wav," Tarri 6 tango epipār hebi sietni iet jau gudai, continue pargi",qatari 6 tango papa heavy sydney tower good day continue approach
+atco2_test821.wav,brick 6868 contact parches,rex 6868 contact departure
+atco2_test822.wav, Cipatrs riks 6868,departure rex 6868
+atco2_test823.wav,signita contact 767,sydney tower jetstar 767
+atco2_test824.wav, 267 zurieta,jetstar 767 sydney tower
+atco2_test825.wav, rai rai 16 rai klitalent corna 44,runway 16 right cleared to land qantas 444
+atco2_test826.wav,good day cross rhein 94,good day qantas 994
+atco2_test827.wav,kl sna 34 tergere,qantas 994 tower good day
+atco2_test828.wav, tis turno 12 contact contact,jetstar 912 contact departure
+atco2_test829.wav,that is an on tour,jetstar 912
+atco2_test830.wav,signet tower good morning american 73 i s 34 left,sydney tower good morning american 73 ils 34 left
+atco2_test831.wav, albi 165 cleared to la  air malaysia 133,runway 16 right cleared to land malaysian 123
+atco2_test832.wav,165 cleared aland rec 6134,16 right cleared to land rex 6134
+atco2_test833.wav,signal taro even corner 7528 heavy,sydney tower evening qantas 7528 heavy
+atco2_test834.wav,474 turn in and head east to lita,qantas 7528 heavy sydney tower
+atco2_test835.wav,sing our good day chinesian 7561 is that based on the localized runway 16 right,sydney tower good day china eastern 7561 establish our localizer runway 16 right
+atco2_test836.wav,tri-tri good day just after r22,sydney tower good day jetstar 522
+atco2_test837.wav, Es tur seda balkvaini tur ietai,jetstar 522 sydney tower
+atco2_test838.wav,killing 42 delta runway 34 left please take us,qlink 42 delta runway 34 left cleared for takeoff
+atco2_test839.wav, 165 klidlank 16158,16 right cleared to land qantas 6158
+atco2_test840.wav, 16 right turn lane tāda stiti kautas 498,16 right cleared to land and understood qantas 498
+atco2_test841.wav,16 right cleared to lankan 806 dot o,16 right cleared to land qlink 206 delta
+atco2_test842.wav,continue approach runway 16 right turn is in 7791,continue approach runway 16 right china eastern 7791
+atco2_test843.wav,jetstar 409 approved roll through to bravo airfo,jetstar 409 approved route to bravo 4
+atco2_test844.wav,o through bravo airfo  thank you jetstar 409,approved bravo 4 thank you jetstar 409
+atco2_test845.wav,obey k8 golf runway 2 for left clear to la  alfa 612,vacate golf runway 34 left cleared to land air china 613
+atco2_test846.wav,taromirican 73 approaching aggagala on the 16 right at ils,tower american 73 approaching igala runway 16 right 8 ils
+atco2_test847.wav,signic air great konosuba 29,sydney tower good day qantas 529
+atco2_test848.wav, contact 539 es ir dienā,qantas 529 sydney tower
+atco2_test849.wav,tun of southern 326 contact depart,china southern 326 contact departure
+atco2_test850.wav,competty part church and 1326,contact departure china southern 326
+atco2_test851.wav, arma ir 165 klitalenu kondas 7701,runway 16 right cleared to land qantas 7701
+atco2_test852.wav,bamia 2018 contact paris good night,bauhinia 2018 contact departure good night
+atco2_test853.wav,contact departures good night bogeyman 2018,contact departure good night bauhinia 2018
+atco2_test854.wav,jetset 784 contact parche,jetstar 784 contact departure
+atco2_test855.wav,jetset 794 good morning,jetstar 784 good morning
+atco2_test856.wav,tag avidam 773 good morning,tower viet nam 773 good morning
+atco2_test857.wav,bietnams 773 heavy city chair good morning continue approach threshold wind 270 degrees 7 knots,viet nam 773 heavy sydney tower good morning continue approach threshold wind 270 degrees 7 knots
+atco2_test858.wav, 1 934 lai sqrislēn bēc 8 bravi 3 tis stāvokt 20,runway 34 left cleared to land vacate bravo 3 jetstar 520
+atco2_test859.wav,sindia sierra good afternoon pinnacle 77 evi inbound i ll s runway 16 right,sydney tower good afternoon fedex 77 heavy inbound ils runway 16 right
+atco2_test860.wav,677 air bt 10 right,fedex 77 heavy sydney tower good day
+atco2_test861.wav, Sarva bojunija 217 staudis alias vietu pola,tower bauhinia 2017 established ils 34 left
+atco2_test862.wav,klm 426 wind 260 degrees 8 knots from ii 6 right cleared for lair,qantas 426 wind 260 degrees 8 knots runway 16 right cleared to land
+atco2_test863.wav, ramaid 16 right lietai 426,runway 16 right cleared to land 426
+atco2_test864.wav,aeroi 340 set to land and request roll through to bravo 4 is available get start 4 0 9,runway 34 left cleared to land then request above 32 bravo 4 if available jetstar 409
+atco2_test865.wav,teni tarvo sri lanka 606 back with you ala s 16 right,sydney tower srilankan 606 back with you ils 16 right
+atco2_test866.wav, Sidi ieta ieta kona 642,sydney tower qantas 642
+atco2_test867.wav,cross 642 you are in each air good day,qantas 642 sydney tower good day
+atco2_test868.wav,jetā 761 windius romeo 65 quiets mēs,jetstar 761 wind is calm runway 16 right cleared to land
+atco2_test869.wav, Nespielair 16 right jets 760,cleared to land 16 right jetstar 761
+atco2_test870.wav,continue of course 3411 and continue by alfa 2 singaport 231,continue approach 3411 vacate via alfa 2 singapore 231
