@@ -4,7 +4,14 @@ AIDL project: ASR whisper finetuning + RAG
 --------------------------------
 # ATCO2_test 부분은 여기다 작성 부탁드려요 (비어있는거 채우기)           
 
-DATASET : Jzuluaga/atco2_corpus_1h    
+DATASET : Jzuluaga/atco2_corpus_1h        
+WHISPER SMALL : openai/whisper-large     
+WHISPER FINETUNED : allenpoe/whisper-small-finetuned-atcosim-model-final    
+LLAMA2 : NousResearch/Llama-2-7b-chat-hf  이거 맞나요?     
+meta-llama/Llama-2-7b-chat-hf 이게 메타에서 나온건데 이건 허깅페이스 계정 승인 받고 로그인 후 사용 가능합니다.         
+승인받은 계정       
+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      
+LLAMA2 FINETUNED : KooJM/llama-2-7b_finetuned_using_whisper-small
 
 ### 위스퍼기본    
 
