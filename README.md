@@ -23,7 +23,9 @@ LLAMA2 FINETUNED : KooJM/llama-2-7b_finetuned_using_whisper-small
 https://colab.research.google.com/drive/1Q5ZUxbHooEdYtJvhu_Su1XhfmcnpXSOi?usp=sharing      
 
 ##### 결과      
-     
+WER 평균 :  1.0405270031874394       
+allenpoe/atco2_test_dictation_by_whisper_small     
+atco2_test_dictation_by_whisper_small.csv     
 
 ### 2. 위스퍼파인튜닝       
 
