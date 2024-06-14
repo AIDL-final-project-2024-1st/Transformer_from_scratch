@@ -46,7 +46,8 @@ https://colab.research.google.com/drive/1gwUnGpV46C1grnj4r30Icp9kVCxczTJj?usp=sh
 WER 평균 :  1.275148099699715       
 allenpoe/atco2_test_dictation_by_whisper_small_and_llama2_original      
 atco2_test_dictation_by_whisper_small_and_llama2_original.csv      
-llm결과 슬라이싱에서 가끔 이상하게 되는 애들이 있습니다. 참고해주세요.     
+llm결과 슬라이싱에서 가끔 이상하게 되는 애들이 있습니다. 참고해주세요.   
+이런 저런 원인으로 인해 wer이 상당히 높게 나오는 경우도 있는데 특이값들을 제하고 계산하는게 맞을 수도 있겠네요..     
 csv에는 LLM에서 나온 raw text도 추가해 두었습니다.    
 
 ### 4. 위스퍼기본 + 라마파인튜닝
