@@ -91,6 +91,8 @@ KooJM/Whisper-small_ACTOSIM_Test_data
 
 
 ----------------------------------
+위스퍼 스몰 파인튜닝 by ATCOSIM     
+https://colab.research.google.com/drive/1oXhZVrdCSordZPO0v4Q1HSGcSz5ykVP_?usp=sharing      
 
 
 파인튜닝    
