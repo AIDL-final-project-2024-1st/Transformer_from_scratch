@@ -55,7 +55,10 @@ https://colab.research.google.com/drive/1gwUnGpV46C1grnj4r30Icp9kVCxczTJj?usp=sh
 
 https://colab.research.google.com/drive/15zEvy6hq3Zu6fJ5X2Wg13UIOCKxnD5FF?hl=ko#scrollTo=NIUpvoTd3FDW
 ##### 결과      
-WER 뽑는 중
+atco2_test를 whisper_small로 받쓰한 WER : 1.2283704978641807 (atco2_test_dictation_by_whisper_small.csv의 wer임)
+
+whisper_small 받쓰를 라마 파인튜닝 모델로 수정한 WER : 1.2086286738029395
+
 라마 파인튜닝 모델 (KooJM/llama-2-7b_finetuned_using_whisper-small)
 
 atco2_test_dictation_by_whisper_small.csv
