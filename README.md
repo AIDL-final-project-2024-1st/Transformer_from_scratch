@@ -40,9 +40,14 @@ atco2_test_dictation_by_whisper_finetuned.csv
 ### 3. 위스퍼기본 + 라마기본
 
 ##### 코랩     
+https://colab.research.google.com/drive/1gwUnGpV46C1grnj4r30Icp9kVCxczTJj?usp=sharing
 
 ##### 결과      
-
+WER 평균 :  1.275148099699715       
+allenpoe/atco2_test_dictation_by_whisper_small_and_llama2_original      
+atco2_test_dictation_by_whisper_small_and_llama2_original.csv      
+llm결과 슬라이싱에서 가끔 이상하게 되는 애들이 있습니다. 참고해주세요.     
+csv에는 LLM에서 나온 raw text도 추가해 두었습니다.    
 
 ### 4. 위스퍼기본 + 라마파인튜닝
 
