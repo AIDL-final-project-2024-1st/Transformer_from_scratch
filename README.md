@@ -50,11 +50,12 @@ atco2_test_dictation_by_whisper_finetuned.csv
 코랩만 작성하고 시간부족으로 못돌렸습니다.    
 
 https://colab.research.google.com/drive/1gwUnGpV46C1grnj4r30Icp9kVCxczTJj?usp=sharing    
-라마 파인튜닝 모델 (KooJM/llama-2-7b_finetuned_using_whisper-small)
+
 https://colab.research.google.com/drive/15zEvy6hq3Zu6fJ5X2Wg13UIOCKxnD5FF?hl=ko#scrollTo=NIUpvoTd3FDW
 ##### 결과      
 WER 뽑는 중
-
+라마 파인튜닝 모델 (KooJM/llama-2-7b_finetuned_using_whisper-small)
+atco2_test_dictation_by_whisper_small.csv
 ### 5. 위스퍼파인튜닝 + 라마기본
 
 ##### 코랩     
