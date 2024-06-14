@@ -23,7 +23,9 @@ LLAMA2 FINETUNED : KooJM/llama-2-7b_finetuned_using_whisper-small
 https://colab.research.google.com/drive/1Q5ZUxbHooEdYtJvhu_Su1XhfmcnpXSOi?usp=sharing      
 
 ##### 결과      
-     
+WER 평균 :  1.0405270031874394       
+allenpoe/atco2_test_dictation_by_whisper_small     
+atco2_test_dictation_by_whisper_small.csv     
 
 ### 2. 위스퍼파인튜닝       
 
@@ -38,17 +40,33 @@ atco2_test_dictation_by_whisper_finetuned.csv
 ### 3. 위스퍼기본 + 라마기본
 
 ##### 코랩     
+https://colab.research.google.com/drive/1gwUnGpV46C1grnj4r30Icp9kVCxczTJj?usp=sharing
 
 ##### 결과      
-
+WER 평균 :  1.275148099699715       
+allenpoe/atco2_test_dictation_by_whisper_small_and_llama2_original      
+atco2_test_dictation_by_whisper_small_and_llama2_original.csv      
+llm결과 슬라이싱에서 가끔 이상하게 되는 애들이 있습니다. 참고해주세요.     
+csv에는 LLM에서 나온 raw text도 추가해 두었습니다.    
 
 ### 4. 위스퍼기본 + 라마파인튜닝
 
-##### 코랩     
+##### 코랩        
+코랩만 작성하고 시간부족으로 못돌렸습니다.    
 
+https://colab.research.google.com/drive/1gwUnGpV46C1grnj4r30Icp9kVCxczTJj?usp=sharing    
+
+위스퍼기본 + 라마파인튜닝모델 불러와서 ATCO2 test 돌리는 중....
+
+https://colab.research.google.com/drive/15zEvy6hq3Zu6fJ5X2Wg13UIOCKxnD5FF?hl=ko#scrollTo=NIUpvoTd3FDW
 ##### 결과      
+atco2_test를 whisper_small로 받쓰한 WER : 1.2283704978641807 (atco2_test_dictation_by_whisper_small.csv의 wer임)
 
+whisper_small 받쓰를 라마 파인튜닝 모델로 수정한 WER : 1.2086286738029395
 
+라마 파인튜닝 모델 (KooJM/llama-2-7b_finetuned_using_whisper-small)
+
+atco2_test_dictation_by_whisper_small.csv
 ### 5. 위스퍼파인튜닝 + 라마기본
 
 ##### 코랩     
@@ -75,8 +93,16 @@ ATCOSIM으로 FINTUNE 된 WHISPER SMALL 모델 : allenpoe/whisper-small-finetune
 파인튜닝된 모델로 atcosim 받아쓰기 데이터셋 (train, test 둘 다 한 주소에 올렸습니다. wav파일은 이름만 있고 오디오파일이 아닙니다. 텍스트만 있어요) :        
 allenpoe/ATCOSIM_dictation_by_finetuned_whisper_small     
 
+파인튜닝안된 모델로 atcosim 받아쓰기 데이터셋 (숫자 표기 변환X) :
+
+KooJM/Whisper-small_ACTOSIM_Train_data
+
+KooJM/Whisper-small_ACTOSIM_Test_data
+
 
 ----------------------------------
+위스퍼 스몰 파인튜닝 by ATCOSIM     
+https://colab.research.google.com/drive/1oXhZVrdCSordZPO0v4Q1HSGcSz5ykVP_?usp=sharing      
 
 
 파인튜닝    
@@ -109,7 +135,9 @@ Llama_2 7b 파인튜닝하기
           ※ Whisper-small에 ATCOSIM train 받아쓰기 데이터 : "KooJM/Whisper-small_ACTOSIM_Train_data"
           ※ Whisper-small에 ATCOSIM test 받아쓰기 데이터 : "KooJM/Whisper-small_ACTOSIM_Test_data"
   - step2 : Llama_2 7b에 받아쓰기한걸 prompt로 넣어주고, 정답은 ATCOSIM train의 "text"로 하여 Llama_2를 지도학습. epoch=1, batch_size=32
-  - step3 : llama 파인튜닝을 위해서 파일 수정함 -->  "KooJM/ATCOSIM_llm_train_text" (<s>[INST] 질문(Whisper-small 받아쓰기) [/INST] 정답(ATCOSIM train의 "text") </s>)
+  - step3 : llama 파인튜닝을 위해서 파일 수정함 -->  "KooJM/ATCOSIM_llm_train_text"
+
+예시 : s>[INST] 질문(Whisper-small 받아쓰기) [/INST] 정답(ATCOSIM train의 "text") /s
   - step3 : 파인튜닝 된 Llama_2를 허깅페이스에 올림 "KooJM/llama-2-7b_finetuned_using_whisper-small"
   - step4 : 파인튜닝 된 Llama_2를 허깅페이스에서 다운받아서 ATCOSIM test 받아쓰기한걸 llama-2에 prompt
   - step5 : llama-2가 뱉는 text와 ATCOSIM test 정답지를 비교하여 WER 계산!
