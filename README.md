@@ -51,6 +51,7 @@ atco2_test_dictation_by_whisper_finetuned.csv
 
 https://colab.research.google.com/drive/1gwUnGpV46C1grnj4r30Icp9kVCxczTJj?usp=sharing    
 
+위스퍼기본 + 라마파인튜닝 돌리는 중....
 https://colab.research.google.com/drive/15zEvy6hq3Zu6fJ5X2Wg13UIOCKxnD5FF?hl=ko#scrollTo=NIUpvoTd3FDW
 ##### 결과      
 WER 뽑는 중
