@@ -19,8 +19,7 @@ LLAMA2 FINETUNED : KooJM/llama-2-7b_finetuned_using_whisper-small
 
 #### 0. EDA
 UWB EDA:  https://colab.research.google.com/drive/1pjrJ51xnaxgJyc4Y5XgGp-YQWWm1xH5O#scrollTo=fEV06nc-4vEW
-
-
+ATCO2 test , ATCOSIM 로컬파일 분석 파일 추가: data_analysis_mh.py
 
 ### 1. 위스퍼기본    
 
