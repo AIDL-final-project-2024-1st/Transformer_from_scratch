@@ -57,7 +57,7 @@ csv에는 LLM에서 나온 raw text도 추가해 두었습니다.
 
 https://colab.research.google.com/drive/1gwUnGpV46C1grnj4r30Icp9kVCxczTJj?usp=sharing    
 
-위스퍼기본 + 라마파인튜닝모델 불러와서 ATCO2 test 돌리는 중....
+위스퍼기본 + 라마파인튜닝모델 불러와서 ATCO2 test 로 돌림림
 
 https://colab.research.google.com/drive/15zEvy6hq3Zu6fJ5X2Wg13UIOCKxnD5FF?hl=ko#scrollTo=NIUpvoTd3FDW
 ##### 결과      
