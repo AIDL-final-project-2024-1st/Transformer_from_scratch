@@ -17,6 +17,10 @@ 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
       
 LLAMA2 FINETUNED : KooJM/llama-2-7b_finetuned_using_whisper-small
 
+#### 0. EDA
+UWB EDA:  https://colab.research.google.com/drive/1pjrJ51xnaxgJyc4Y5XgGp-YQWWm1xH5O#scrollTo=fEV06nc-4vEW
+ATCO2 test , ATCOSIM 로컬파일 분석 파일 추가: data_analysis_mh.py
+
 ### 1. 위스퍼기본    
 
 ##### 코랩     
@@ -27,6 +31,14 @@ WER 평균 :  1.0405270031874394
 allenpoe/atco2_test_dictation_by_whisper_small     
 atco2_test_dictation_by_whisper_small.csv     
 
+##### 코랩2 
+https://colab.research.google.com/drive/1TOyafUyObQopOwkEUFtuAqyNXkeN44XW
+##### 결과2
+ATCO2-test: 0.987
+UWB-ATCC (test): 1.488
+ATCOSIM (test): 0.913
+
+
 ### 2. 위스퍼파인튜닝       
 
 ##### 코랩
@@ -36,6 +48,14 @@ https://colab.research.google.com/drive/1cxmbCTmX0UdFPyFRkcpy-ULiI5eHRJbY?usp=sh
 WER 평균 :  1.0495432499523096    
 allenpoe/atco2_test_dictation_by_whisper_finetuned        
 atco2_test_dictation_by_whisper_finetuned.csv     
+
+##### 코랩2 (숫자값 변경없이 튜닝한 경우)
+https://colab.research.google.com/drive/1TC3oLjpg9zArphfUJISJc5lHnjzaM6GX
+##### 결과2
+ATCO2-test: 0.546
+UWB-ATCC (test): 1.029
+ATCOSIM (test): 0.018
+
 
 ### 3. 위스퍼기본 + 라마기본
 
@@ -50,6 +70,11 @@ llm결과 슬라이싱에서 가끔 이상하게 되는 애들이 있습니다. 
 이런 저런 원인으로 인해 wer이 상당히 높게 나오는 경우도 있는데 특이값들을 제하고 계산하는게 맞을 수도 있겠네요..     
 csv에는 LLM에서 나온 raw text도 추가해 두었습니다.    
 
+
+
+
+
+
 ### 4. 위스퍼기본 + 라마파인튜닝
 
 ##### 코랩        
@@ -57,7 +82,7 @@ csv에는 LLM에서 나온 raw text도 추가해 두었습니다.
 
 https://colab.research.google.com/drive/1gwUnGpV46C1grnj4r30Icp9kVCxczTJj?usp=sharing    
 
-위스퍼기본 + 라마파인튜닝모델 불러와서 ATCO2 test 돌리는 중....
+위스퍼기본 + 라마파인튜닝모델 불러와서 ATCO2 test 로 돌림림
 
 https://colab.research.google.com/drive/15zEvy6hq3Zu6fJ5X2Wg13UIOCKxnD5FF?hl=ko#scrollTo=NIUpvoTd3FDW
 ##### 결과      
@@ -67,7 +92,9 @@ whisper_small 받쓰를 라마 파인튜닝 모델로 수정한 WER : 1.20862867
 
 라마 파인튜닝 모델 (KooJM/llama-2-7b_finetuned_using_whisper-small)
 
-atco2_test_dictation_by_whisper_small.csv
+사용한 데이터 : atco2_test_dictation_by_whisper_small.csv
+
+Whisper에 llama2 finetuned 붙여서 ATCO2 WER 뽑기_결과.csv
 ### 5. 위스퍼파인튜닝 + 라마기본
 
 ##### 코랩     
@@ -81,11 +108,17 @@ atco2_test_dictation_by_whisper_finetuned_and_llama2_original.csv
 ### 6. 위스퍼파인튜닝 + 라마 파인튜닝
 
 ##### 코랩     
+코드
 
-##### 결과      
+https://colab.research.google.com/drive/1LkAoNZ6VhirD96kqLMXfUQpNf9FIyIz7?hl=ko#scrollTo=_0s4rm2K6eIP
+##### 결과       
+파인튜닝한 whisper가 받쓰한 wer 점수 평균 :  0.7399132594741213
 
+사용한 데이터 : atco2_test_dictation_by_whisper_finetuned.csv
 
+파인튜닝한 llm이 교정한 wer 점수 평균 :  1.0596671102386215
 
+Whisper 파인튜닝한 모델에 llama2 finetuned 붙여서 ATCO2 WER 뽑기_결과.csv
 
 ----------------------------------
 
