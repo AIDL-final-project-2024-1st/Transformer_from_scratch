@@ -71,9 +71,12 @@ atco2_test_dictation_by_whisper_small.csv
 ### 5. 위스퍼파인튜닝 + 라마기본
 
 ##### 코랩     
-
+3번과 같은 코랩인데 아래쪽에 있어요
+https://colab.research.google.com/drive/1gwUnGpV46C1grnj4r30Icp9kVCxczTJj?usp=sharing
 ##### 결과      
-
+WER 평균 :  1.0635611522554256    
+allenpoe/atco2_test_dictation_by_whisper_finetuned_and_llama2_original     
+atco2_test_dictation_by_whisper_finetuned_and_llama2_original.csv     
 
 ### 6. 위스퍼파인튜닝 + 라마 파인튜닝
 
