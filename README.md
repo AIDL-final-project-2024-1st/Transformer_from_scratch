@@ -85,7 +85,7 @@ atco2_test_dictation_by_whisper_finetuned_and_llama2_original.csv
 
 https://colab.research.google.com/drive/1LkAoNZ6VhirD96kqLMXfUQpNf9FIyIz7?hl=ko#scrollTo=_0s4rm2K6eIP
 ##### 결과       
-파인튜닝한 whisper가 받쓰한 wer 점수 평균 :  0.75943105511132
+파인튜닝한 whisper가 받쓰한 wer 점수 평균 :  0.7399132594741213
 
 파인튜닝한 llm이 교정한 wer 점수 평균 :  1.0596671102386215
 
