@@ -68,6 +68,7 @@ whisper_small 받쓰를 라마 파인튜닝 모델로 수정한 WER : 1.20862867
 라마 파인튜닝 모델 (KooJM/llama-2-7b_finetuned_using_whisper-small)
 
 atco2_test_dictation_by_whisper_small.csv
+
 Whisper에 llama2 finetuned 붙여서 ATCO2 WER 뽑기_결과.csv
 ### 5. 위스퍼파인튜닝 + 라마기본
 
