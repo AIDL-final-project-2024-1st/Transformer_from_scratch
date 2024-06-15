@@ -87,7 +87,11 @@ https://colab.research.google.com/drive/1LkAoNZ6VhirD96kqLMXfUQpNf9FIyIz7?hl=ko#
 ##### 결과       
 파인튜닝한 whisper가 받쓰한 wer 점수 평균 :  0.7399132594741213
 
+atco2_test_dictation_by_whisper_finetuned.csv
+
 파인튜닝한 llm이 교정한 wer 점수 평균 :  1.0596671102386215
+
+Whisper 파인튜닝한 모델에 llama2 finetuned 붙여서 ATCO2 WER 뽑기_결과.csv
 
 ----------------------------------
 
