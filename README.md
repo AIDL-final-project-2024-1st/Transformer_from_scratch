@@ -1,6 +1,10 @@
 # Transformer_from_scratch
 AIDL project: ASR whisper finetuning + RAG    
 
+wer 계산 코드
+
+https://colab.research.google.com/drive/1PyrfQF_fg6erQHnf7POdpYq7dgec12eB?hl=ko#scrollTo=OYtfg4LrKbD_
+
 --------------------------------
 # ATCO2_test 부분은 여기다 작성 부탁드려요 (비어있는거 채우기)           
 
